@@ -1,0 +1,29 @@
+{{ define "main" }}
+<article class="article-list">
+<!-- Ranges through content/posts/*.md -->
+{{ range .Pages }}
+<div id="post-card" class="grid-item">
+    <header class="post-card-header">
+        <h2 class="post-card-header">{{ .Title }}</h2>
+        <h3 class="post-card-header-date">{{.Date.Format "Monday, January 2, 2006"}}</h3>
+    </header>
+    <article class="post-card-body">
+        <section class="post-card-body-section">
+            <section class="post-card-body-section">
+                <figure class="post-card-image">
+                    <img data-src="https://source.unsplash.com/350x350/?{{.Title}}" alt="{{ .Title}}" width="100%" height="auto" class="lazy">
+                </figure>
+            </section>
+            <a href="{{.Permalink}}"> {{.Title}}</a>
+            {{ .Summary | plainify}}
+        </section>
+        <footer class="post-card-footer">
+            <span>Published: {{ .PublishDate.Format "Monday, January 2, 2006" }}</span>
+        <span>Modified: {{ .Lastmod.Format "Monday, January 2, 2006"}}</span>
+        </footer>
+    </article>
+</div>
+{{ end }}
+</article>
+
+{{ end }}
