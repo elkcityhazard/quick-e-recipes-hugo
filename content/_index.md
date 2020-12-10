@@ -1,5 +1,5 @@
 ---
-title: Chef Frank's Every Day Family Meals
+title: "Chef Frank's Every Day Family Meals"
 layout: baseof
 ---
 

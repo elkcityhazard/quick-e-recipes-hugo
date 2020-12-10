@@ -1,4 +1,218 @@
-baseURL = "http://example.org/"
+baseURL = ""
 languageCode = "en-us"
 title = "Quick E Recipes - Everyday Family Meals"
 theme = "dayolddonuts"
+
+# Navigation bar
+[menu]
+
+[[menu.main]]
+    identifier = "about" # identifier is use for translations
+    name = "About Us"
+    pre = "" # pre is inserted before the translation (icons, image, etc)
+    url = "/about" 
+    weight = 20
+# [[menu.main]]    
+#     identifier = "appetizers" # identifier is use for translations
+#     name = "Appetizers"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/appetizers" 
+#     weight = 10 
+# [[menu.main]]    
+#     identifier = "beef-dishes" # identifier is use for translations
+#     name = "Beef Dishes"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/beef-dishes" 
+#     weight = 40
+[[menu.main]]    
+    identifier = "blog" # identifier is use for translations
+    name = "Blog"
+    pre = "" # pre is inserted before the translation (icons, image, etc)
+    url = "/blog" 
+    weight = 50    
+# [[menu.main]]    
+#     identifier = "casserole-recipes" # identifier is use for translations
+#     name = "Casserole Recipes"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/casserole-recipes" 
+#     weight = 60
+[[menu.main]]    
+    identifier = "chef-franks-seasoning-recipes" # identifier is use for translations
+    name = "Chef Frank's Seasoning Recipes"
+    pre = "" # pre is inserted before the translation (icons, image, etc)
+    url = "/chef-franks-seasoning-recipes" 
+    weight = 70         
+[[menu.main]]    
+    identifier = "chefs-blog" # identifier is use for translations
+    name = "Chef's Blog"
+    pre = "" # pre is inserted before the translation (icons, image, etc)
+    url = "/chefs-blog" 
+    weight = 80   
+[[menu.main]]    
+    identifier = "contact-us" # identifier is use for translations
+    name = "Contact Us"
+    pre = "" # pre is inserted before the translation (icons, image, etc)
+    url = "/contact-us" 
+    weight = 90    
+# [[menu.main]]    
+#     identifier = "dessert-recipes" # identifier is use for translations
+#     name = "Dessert Recipes"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/dessert-recipes" 
+#     weight = 100   
+# [[menu.main]]    
+#     identifier = "easy-bread-recipes" # identifier is use for translations
+#     name = "Bread Recipes"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/easy-bread-recipes" 
+#     weight = 110
+# [[menu.main]]    
+#     identifier = "easy-breakfast-recipes" # identifier is use for translations
+#     name = "Breakfast Recipes"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/easy-breakfast-recipes" 
+#     weight = 120 
+# [[menu.main]]    
+#     identifier = "easy-mexican-recipes" # identifier is use for translations
+#     name = "Mexican Recipes"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/easy-mexican-recipes" 
+#     weight = 130
+# [[menu.main]]    
+#     identifier = "easy-pork-recipes" # identifier is use for translations
+#     name = "Pork Recipes"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/easy-pork-recipes" 
+#     weight = 140
+# [[menu.main]]    
+#     identifier = "easy-side-dishes" # identifier is use for translations
+#     name = "Side Dishes"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/easy-side-dishes" 
+#     weight = 150
+# [[menu.main]]    
+#     identifier = "easy-vegetarian-dinner-recipes" # identifier is use for translations
+#     name = "Vegetarian Dinner Recipes"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/easy-vegetarian-dinner-recipes" 
+#     weight = 160
+[[menu.main]]    
+    identifier = "food-safety-tips" # identifier is use for translations
+    name = "Food Safety Tips"
+    pre = "" # pre is inserted before the translation (icons, image, etc)
+    url = "/food-safety-tips" 
+    weight = 170  
+# [[menu.main]]    
+#     identifier = "grilled-sandwich-recipes" # identifier is use for translations
+#     name = "Grilled Sandwich Recipes"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/grilled-sandwich-recipes" 
+#     weight = 180  
+# [[menu.main]]    
+#     identifier = "grilling-cookouts-and-barbecues" # identifier is use for translations
+#     name = "Grill Recipes"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/grilling-cookouts-and-barbecues" 
+#     weight = 190
+[[menu.main]]    
+    identifier = "herbs-and-spices-chart" # identifier is use for translations
+    name = "Herbs and Spices Chart"
+    pre = "" # pre is inserted before the translation (icons, image, etc)
+    url = "/herbs-and-spices-chart" 
+    weight = 200  
+# [[menu.main]]    
+#     identifier = "homemade-soups" # identifier is use for translations
+#     name = "Homemade Soups"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/homemade-soups" 
+#     weight = 210  
+# [[menu.main]]    
+#     identifier = "hot-vegetables" # identifier is use for translations
+#     name = "Hot Vegetables"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/hot-vegetables" 
+#     weight = 220 
+[[menu.main]]    
+    identifier = "ingredients-measurements-and-conventions" # identifier is use for translations
+    name = "Ingredient, Measurements & Conventions"
+    pre = "" # pre is inserted before the translation (icons, image, etc)
+    url = "/ingredients-measurements-and-conventions" 
+    weight = 230  
+[[menu.main]]    
+    identifier = "institutional-recipes-for-200" # identifier is use for translations
+    name = "Institutional Recipes For 200"
+    pre = "" # pre is inserted before the translation (icons, image, etc)
+    url = "/institutional-recipes-for-200" 
+    weight = 240 
+# [[menu.main]]    
+#     identifier = "kids-corner-recipes" # identifier is use for translations
+#     name = "Kids Corner Recipes"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/kids-corner-recipes" 
+#     weight = 250   
+[[menu.main]]    
+    identifier = "kitchen-tools-and-terms" # identifier is use for translations
+    name = "Kitchen Tools and Terms"
+    pre = "" # pre is inserted before the translation (icons, image, etc)
+    url = "/kitchen-tools-and-terms" 
+    weight = 270  
+[[menu.main]]    
+    identifier = "posts" # identifier is use for translations
+    name = "Posts"
+    pre = "" # pre is inserted before the translation (icons, image, etc)
+    url = "/posts" 
+    weight = 280
+# [[menu.main]]    
+#     identifier = "privacy-policy" # identifier is use for translations
+#     name = "Privacy Policy"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/privacy-policy" 
+#     weight = 290 
+# [[menu.main]]    
+#     identifier = "quick-and-easy-chicken-recipes" # identifier is use for translations
+#     name = "Chicken Recipes"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/quick-and-easy-chicken-recipes" 
+#     weight = 300   
+# [[menu.main]]    
+#     identifier = "recipe-basics-and-sauces" # identifier is use for translations
+#     name = "Recipes Basics & Sauces"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/recipe-basics-and-sauces" 
+#     weight = 310  
+# [[menu.main]]    
+#     identifier = "recipes-for-special-occasions-and-events" # identifier is use for translations
+#     name = "Special Events"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/recipes-for-special-occasions-and-events" 
+#     weight = 320  
+# [[menu.main]]    
+#     identifier = "recipes-from-friends" # identifier is use for translations
+#     name = "Recipes From Friends"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/recipes-from-friends" 
+#     weight = 330  
+# [[menu.main]]    
+#     identifier = "restaurant-sandwich-recipes" # identifier is use for translations
+#     name = "Restaurant Sandwiches"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/restaurant-sandwich-recipes" 
+#     weight = 340
+# [[menu.main]]    
+#     identifier = "sandwich-recipes" # identifier is use for translations
+#     name = "Sandwich Recipes"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/sandwich-recipes" 
+#     weight = 350  
+# [[menu.main]]    
+#     identifier = "seafood-dishes" # identifier is use for translations
+#     name = "Seafood Dishes"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/seafood-dishes" 
+#     weight = 360 
+# [[menu.main]]    
+#     identifier = "site-map" # identifier is use for translations
+#     name = "Site Map"
+#     pre = "" # pre is inserted before the translation (icons, image, etc)
+#     url = "/site-map" 
+#     weight = 370              
