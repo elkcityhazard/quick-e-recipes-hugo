@@ -3,7 +3,7 @@
 {{ define "main" }}
 <article class="article-list">
 <!-- Ranges through content/posts/*.md -->
-{{ range .Sections }}
+{{ range where .Site.Pages "Section" "recipes" }}
 <div id="post-card" class="grid-item">
     <header class="post-card-header">
         <h2 class="post-card-header">{{ .Title }}</h2>

@@ -1,6 +1,7 @@
 ---
-title: "Chef Frank's Every Day Family Meals"
-layout: baseof
+identifier: home
+title: "Home"
+# menu: ["main"]
 ---
 
 {{ define "main" }}

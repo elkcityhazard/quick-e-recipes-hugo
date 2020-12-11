@@ -1,29 +1,33 @@
 ---
-title: Easy Bread Recipes
+title: Fool Proof Banana Bread
 author: elkcityhazard
 type: page
-date: 2019-12-16T15:58:45+00:00
+date: -001-11-30T00:00:00+00:00
+draft: true
 
 ---
-Enjoy all of our quick bread recipes made from scratch ingredients and yet are simple and delicious. Using local fruits in season are fun and you can really taste the difference.
+# Banana Bread
 
-## Easy Quick Breads From Scratch Recipes
+Homemade banana bread is truly foolproof and will only take a few minutes to prepare. Take advantage of variations to this recipe by adding nuts of your choice. 1 Hour in the oven and everyone is enjoying warm banana bread!
 
-  * [Apple Bread][1]
-  * [Banana Bread][2]
-  * [Banana Muffins][3]
-  * [Biscuits][4]
-  * [Poppy Seed Bread][5]
-  * [Zucchini Bread][6]
+![fool proof banana bread][1] 
 
-## Yeast Breads
+  * 3 ripe bananas
+  * 2 eggs
+  * 1 c sugar
+  * 1/2 c oil
+  * 2 c flour
+  * 1/2 tsp baking soda
+  * 1/2 tsp baking powder
+  * 1/4 tsp salt
+  * dash milk
+  * 1 tsp vanills ext.
+  * 1 c chopped walnuts or pecans (optional)
 
-  * [Homemade Bread][7]
+## Directions
 
- [1]: /wordpress/index.php/easy-breakfast-recipes/apple-bread/
- [2]: /wordpress/index.php/easy-breakfast-recipes/fool-proof-banana-bread/
- [3]: /wordpress/index.php/easy-breakfast-recipes/banana-muffins/
- [4]: /wordpress/index.php/easy-breakfast-recipes/fresh-homemade-biscuits/
- [5]: /wordpress/index.php/easy-bread-recipes/poppy-seed-bread-recipe/
- [6]: /wordpress/index.php/easy-bread-recipes/zucchini-bread-recipe/
- [7]: /wordpress/index.php/easy-bread-recipes/easy-homemade-bread/
+Combine flour, baking soda, baking powder,and salt. Mix, set aside. Cream together in mixer, bananas, eggs, oil, milk, vanilla, nuts, and sugar. Add dry ingredients and mix together, don&#8217;t overmix. Pour batter in bread pan and bake in pre-heated oven 350* for an hour or until toothpick tests dry. Remove from pan after a few minutes and let rest on rack . Slice and serve.
+
+**Note:** To make banana cake add 1 cup water to above, pour into cake pan and bake 350* for 20-27 minutes.
+
+ [1]: http://www.quick-e-recipes.com/sitebuildercontent/sitebuilderpictures/IMG_0803_1024.jpg "fool proof banana bread"

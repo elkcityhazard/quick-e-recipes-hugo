@@ -7,6 +7,13 @@ theme = "dayolddonuts"
 [menu]
 
 [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 0
+
+
+[[menu.main]]
     identifier = "about" # identifier is use for translations
     name = "About Us"
     pre = "" # pre is inserted before the translation (icons, image, etc)
@@ -42,12 +49,6 @@ theme = "dayolddonuts"
     pre = "" # pre is inserted before the translation (icons, image, etc)
     url = "/chef-franks-seasoning-recipes" 
     weight = 70         
-[[menu.main]]    
-    identifier = "chefs-blog" # identifier is use for translations
-    name = "Chef's Blog"
-    pre = "" # pre is inserted before the translation (icons, image, etc)
-    url = "/chefs-blog" 
-    weight = 80   
 [[menu.main]]    
     identifier = "contact-us" # identifier is use for translations
     name = "Contact Us"
@@ -96,12 +97,6 @@ theme = "dayolddonuts"
 #     pre = "" # pre is inserted before the translation (icons, image, etc)
 #     url = "/easy-vegetarian-dinner-recipes" 
 #     weight = 160
-[[menu.main]]    
-    identifier = "food-safety-tips" # identifier is use for translations
-    name = "Food Safety Tips"
-    pre = "" # pre is inserted before the translation (icons, image, etc)
-    url = "/food-safety-tips" 
-    weight = 170  
 # [[menu.main]]    
 #     identifier = "grilled-sandwich-recipes" # identifier is use for translations
 #     name = "Grilled Sandwich Recipes"
@@ -113,13 +108,7 @@ theme = "dayolddonuts"
 #     name = "Grill Recipes"
 #     pre = "" # pre is inserted before the translation (icons, image, etc)
 #     url = "/grilling-cookouts-and-barbecues" 
-#     weight = 190
-[[menu.main]]    
-    identifier = "herbs-and-spices-chart" # identifier is use for translations
-    name = "Herbs and Spices Chart"
-    pre = "" # pre is inserted before the translation (icons, image, etc)
-    url = "/herbs-and-spices-chart" 
-    weight = 200  
+#     weight = 190 
 # [[menu.main]]    
 #     identifier = "homemade-soups" # identifier is use for translations
 #     name = "Homemade Soups"
@@ -131,13 +120,6 @@ theme = "dayolddonuts"
 #     name = "Hot Vegetables"
 #     pre = "" # pre is inserted before the translation (icons, image, etc)
 #     url = "/hot-vegetables" 
-#     weight = 220 
-[[menu.main]]    
-    identifier = "ingredients-measurements-and-conventions" # identifier is use for translations
-    name = "Ingredient, Measurements & Conventions"
-    pre = "" # pre is inserted before the translation (icons, image, etc)
-    url = "/ingredients-measurements-and-conventions" 
-    weight = 230  
 [[menu.main]]    
     identifier = "institutional-recipes-for-200" # identifier is use for translations
     name = "Institutional Recipes For 200"
@@ -150,18 +132,7 @@ theme = "dayolddonuts"
 #     pre = "" # pre is inserted before the translation (icons, image, etc)
 #     url = "/kids-corner-recipes" 
 #     weight = 250   
-[[menu.main]]    
-    identifier = "kitchen-tools-and-terms" # identifier is use for translations
-    name = "Kitchen Tools and Terms"
-    pre = "" # pre is inserted before the translation (icons, image, etc)
-    url = "/kitchen-tools-and-terms" 
-    weight = 270  
-[[menu.main]]    
-    identifier = "posts" # identifier is use for translations
-    name = "Posts"
-    pre = "" # pre is inserted before the translation (icons, image, etc)
-    url = "/posts" 
-    weight = 280
+ 
 # [[menu.main]]    
 #     identifier = "privacy-policy" # identifier is use for translations
 #     name = "Privacy Policy"

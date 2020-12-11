@@ -1,4 +1,7 @@
 <div class="row">
+    <a href="{{ .Site.BaseURL }}">
+        <video src="{{ .Site.BaseURL}}images/echef.mp4" class="logo" autoplay></video>
+    </a>
     <nav class="main-nav">
         <ul>
             {{ $currentPage := . }}
@@ -26,12 +29,13 @@
                     </li>
                 {{ end }}
             {{ end }}
-            <li>
-                <a href="#" target="_blank">Hardcoded Link 1</a>
+            <!-- <li>
+                <a href="/" target="_blank">Hardcoded Link 1</a>
             </li>
             <li>
                 <a href="#" target="_blank">Hardcoded Link 2</a>
-            </li>
+            </li> -->
+
         </ul>
     </nav>
 </div>
