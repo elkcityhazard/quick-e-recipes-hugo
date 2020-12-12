@@ -3,6 +3,7 @@ title: Goulash With Ground Beef
 author: elkcityhazard
 type: page
 date: 2019-12-10T22:35:08+00:00
+featured_image: "../../images/recipes/goulash.jpg"
 
 ---
 Quick Easy Goulash Recipe with Fresh Ground Beef and Elbow Macaroni, Tomato Sauce and Fresh Cut Vegetables with Cheese. Goulash is a Great [Casserole][1] for Lunch or Supper.
@@ -24,6 +25,6 @@ serves 8
 
 Combine all ingredients in large mixing bowl. Mix well. Place in casserole dish and bake 350 for 45 min. to 1 hour.
 
-**Note:** Add black or chili beans to make <a href="/wordpress/homemade-soups/easy-chili-con-carne/" rel="noopener noreferrer" target="_blank">Chili</a> Mac
+**Note:** Add black or chili beans to make <a href="{{ .Site.BaseURL}}recipes/homemade-soups/chili-con-carne" rel="noopener noreferrer" target="_blank">Chili</a> Mac
 
  [1]: /wordpress/casserole-recipes/

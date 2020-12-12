@@ -1,7 +1,7 @@
 ---
 title: Joe Grey Soup
 author: elkcityhazard
-type: page
+type: post
 date: 2020-10-06T02:34:38+00:00
 featured_image: /wp-content/uploads/2020/10/potatoes-scaled-1-1200x900.jpg
 

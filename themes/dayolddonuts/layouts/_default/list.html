@@ -1,2 +1,30 @@
 {{ define "main" }}
- {{ .Content }} {{ end }}
+<article class="section-list">
+    {{ .Content }}
+</article>
+<article class="article-list">
+    {{ range .Pages }}
+<div id="post-card" class="grid-item">
+    <header class="post-card-header">
+        <h2 class="post-card-header">{{ .Title }}</h2>
+        <span class="post-card-header-date">{{.Date.Format "Monday, January 2, 2006"}}</span>
+    </header>
+    <article class="post-card-body">
+        <section class="post-card-body-section">
+                <figure class="post-card-image">
+                    <img data-src="{{ .Params.featured_image}}" alt="{{ .Title}}" width="100%" height="auto" class="lazy">
+                </figure>
+            
+            <h3><a href="{{.Permalink}}"> {{.Title}}</a></h3>
+            {{ .Summary | plainify}}
+        </section>
+        <footer class="post-card-footer">
+            <span><strong>Published:</strong> {{ .PublishDate.Format "Monday, January 2, 2006" }}</span> <br />
+            <span><strong>Modified:</strong> {{ .Lastmod.Format "Monday, January 2, 2006"}}</span>
+        </footer>
+    </article>
+</div>
+{{end }}
+</article>
+{{ end }}
+

@@ -13,7 +13,7 @@
         <section class="post-card-body-section">
             <section class="post-card-body-section">
                 <figure class="post-card-image">
-                    <img data-src="https://source.unsplash.com/350x350/?{{.Title}}" alt="{{ .Title}}" width="100%" height="auto" class="lazy">
+                    <img data-src="{{ .Params.featured_image}}" alt="{{ .Title}}" width="100%" height="auto" class="lazy">
                 </figure>
             </section>
             <a href="{{.Permalink}}"> {{.Title}}</a>

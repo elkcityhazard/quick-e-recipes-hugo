@@ -1,0 +1,18 @@
+{{ define "main" }}
+<article class="article-list">
+    <div class="single-page">
+        <header class="article-header">
+            <figure class="post-card-image">
+                <img data-src="{{ .Params.featured_image}}" alt="{{ .Title}}" width="100%" height="auto" class="lazy">
+            </figure>
+            <h1 class="post-title">{{ .Title }}</h1>
+            <span>Published: {{ .PublishDate.Format "Monday, January 2, 2006" }}</span>
+        <span>Modified: {{ .Lastmod.Format "Monday, January 2, 2006"}}</span>
+        </header>
+        <section class="main-content">
+            {{ .Content }}
+        </section>
+    </div>
+</article>
+
+{{ end }}

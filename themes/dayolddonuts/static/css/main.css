@@ -1,3 +1,11 @@
+@font-face {
+  font-family: "dejavu_sanscondensed_book";
+  src: url("../dejavu-sans/web-fonts/dejavusanscondensed_book_macroman/");
+  src: url("../dejavu-sans/web-fonts/dejavusanscondensed_book_macroman/?#iefix") format("embedded-opentype"), url("../dejavu-sans/web-fonts/dejavusanscondensed_book_macroman/DejaVuSansCondensed-webfont.woff2") format("woff2"), url("../dejavu-sans/web-fonts/dejavusanscondensed_book_macroman/DejaVuSansCondensed-webfont.woff") format("woff"), url("../dejavu-sans/web-fonts/dejavusanscondensed_book_macroman/DejaVuSansCondensed-webfont.ttf") format("truetype"), url("../dejavu-sans/web-fonts/dejavusanscondensed_book_macroman/DejaVuSansCondensed-webfont.svg#dejavu_sanscondensed") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-swap: swap;
+}
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -8,10 +16,10 @@
 }
 @keyframes slideInLeft {
   from {
-    left: -1000%;
+    transform: translateX(-100%);
   }
   to {
-    left: 0;
+    transform: translateX(0);
   }
 }
 /* Box sizing rules */
@@ -32,6 +40,7 @@ figure,
 blockquote,
 dl,
 dd {
+  font-family: "dejavu_sanscondensed_book", sans-serif, monospace;
   margin: 0;
 }
 
@@ -84,10 +93,6 @@ select {
     scroll-behavior: auto !important;
   }
 }
-.grid-item:nth-child(3n-2) {
-  visibility: hidden;
-}
-
 .lazy {
   transition: 3s ease;
   -webkit-transition: opacity 3s ease;
@@ -95,16 +100,10 @@ select {
 }
 
 .fadeIn {
-  animation: fadeIn 3s ease;
-  transition: 3s ease;
-  -webkit-transition: opacity 3ms ease;
+  animation: fadeIn 250ms ease;
+  transition: 250ms ease;
+  -webkit-transition: opacity 250ms ease;
   opacity: 1;
-}
-
-.slideInLeft:nth-child(3n-2) {
-  animation: slideInLeft 7s ease;
-  visibility: visible;
-  transition: 500ms ease;
 }
 
 .add-shadow {
@@ -127,11 +126,14 @@ select {
   width: 100%;
 }
 .row .logo {
-  display: inline-block;
-  height: 75px;
+  display: none;
   margin: 0 auto;
   padding-left: 0.25em;
+  opacity: 0;
+  transition: opacity 250ms ease-in-out;
+  -webkit-transition: opacity 250ms ease-in-out;
   width: auto;
+  max-width: 25vw;
 }
 .row .main-nav {
   display: block;
@@ -145,9 +147,12 @@ select {
   flex-wrap: wrap;
   justify-content: flex-end;
   list-style: none inside;
+  margin: 0 auto;
+  max-width: 968px;
 }
 .row .main-nav ul li {
   display: inline-block;
+  margin: 0 auto;
 }
 .row .main-nav ul li a {
   color: #3d3d3d;
@@ -243,6 +248,10 @@ select {
 .article-list .post-card .post-card-footer {
   position: absolute;
   bottom: 0;
+}
+.article-list .single-page {
+  grid-column-start: 2;
+  max-width: 60ch;
 }
 
 .site-footer {
