@@ -9,9 +9,23 @@
   font-weight: normal;
   font-style: normal;
   font-swap: swap;
-
 }
+
+@font-face {
+  font-family: 'dejavu_sans_bold';
+  src: url('../dejavu-sans/web-fonts/dejavusans_boldoblique_macroman/');
+  src: url('../dejavu-sans/web-fonts/dejavusans_boldoblique_macroman/?#iefix') format('embedded-opentype'),
+       url('../dejavu-sans/web-fonts/dejavusans_boldoblique_macroman/DejaVuSans-BoldOblique-webfont.woff2') format('woff2'),
+       url('../dejavu-sans/web-fonts/dejavusans_boldoblique_macroman/DejaVuSans-BoldOblique-webfont.woff') format('woff'),
+       url('../dejavu-sans/web-fonts/dejavusans_boldoblique_macroman/DejaVuSans-BoldOblique-webfont.ttf') format('truetype'),
+       url('../dejavu-sans/web-fonts/dejavusans_boldoblique_macroman/DejaVuSans-BoldOblique-webfont.svg#dejavu_sansbold_oblique') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-swap: swap;
+}
+
 $light-slate-blue: rgba(125, 95, 255,1.0);
+$shadowed-steel: rgba(75, 75, 75,1.0);
 $baltic-sea: rgba(61, 61, 61,1.0);
 $dorn-yellow: rgba(255, 242, 0,1.0);
 
@@ -55,6 +69,13 @@ dd {
   margin: 0;
 }
 
+ul, li {
+  margin: 0;
+  padding: 0;
+
+}
+
+
 /* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
 ul[role="list"],
 ol[role="list"] {
@@ -91,6 +112,47 @@ button,
 textarea,
 select {
   font: inherit;
+}
+
+span strong {
+  font-family: 'dejavu_sans_bold', sans-serif, monospace;
+  font-weight: 300;
+}
+
+
+#hamburger {
+  background: #333;
+  border-radius: 10px;
+  display: block;
+  height: 3px;
+  margin: 0 1em;
+  position: relative;
+  width: 40px;
+}
+
+#hamburger::before,
+#hamburger::after {
+  background: #333;
+  border-radius: 10px;
+  content: '';
+  display: block;
+  height: 3px;
+  position: absolute;
+  width: 40px;
+}
+
+#hamburger:active,
+#hamburger:active::before,
+#hamburger:active::after {
+  transform: blur(5px);
+}
+
+#hamburger::before {
+  top: 7px;
+}
+
+#hamburger::after {
+  bottom: 7px;
 }
 
 /* Remove all animations and transitions for people that prefer not to see them */
@@ -156,6 +218,11 @@ select {
     -webkit-transition: opacity 250ms ease-in-out;
     width: auto;
     max-width: 25vw;
+  }
+
+  .logo-visible {
+    display: block;
+    opacity: 1 !important;
   }
   .main-nav {
     display: block;
@@ -275,13 +342,17 @@ select {
     grid-gap: 1em;
     justify-content: center;
     padding: 1.25em;
+    .sidebar {
+      display: block;
+      margin: 0 auto;
+      ul {
+        list-style: none;
+        padding: 0;
+      }
+    }
     .post-card {
       position: relative;
-        .post-card-header{
-
-        }
         .post-card-body {
-
         }
         .post-card-footer {
           position: absolute;
@@ -290,20 +361,82 @@ select {
         }
     }
     .single-page {
+      align-self: center;
+      justify-self: center;
       grid-column-start: 2;
+      grid-column-end: 4;
       max-width: 60ch;
     }
 }
 
+.post-card-image + a {
+  display: block;
+  padding: 1em 1.5em;
+  text-align: center;
+  text-decoration: none;
+}
+
+
 .site-footer {
   background: #333;
+  color: #fff;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 2fr 48px;
   min-height: 25vh;
+  .row:first-child {
+    align-items: center;
+    background: $shadowed-steel;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    justify-content: center;
+    .col {
+      padding: 0 0em;
+      text-align: center;
+      ul {
+        list-style: none;
+        margin: 0 auto;
+        padding-left: 2em;
+        width: auto;
+        li  {
+          display: inline-block;
+          padding: 0 .75em;
+          text-align: left;
+          a {
+            color: #fff;
+          }
+        }
+      }
+    }
+  }
   .row:nth-child(2) {
-    background: #111;
-
+    background: $baltic-sea;
+    p {
+      margin: 0 auto;
+      text-align: center;
+      a {
+        color: $dorn-yellow;
+        position: relative;
+        text-decoration: none;
+        &:hover::after {
+          transform: scaleX(1);
+        }
+        &:after {
+          background: $light-slate-blue;
+          content: '';
+          display: block;
+          height: 2px;
+          position: absolute;
+          bottom: -3px;
+          left: 0;
+          transform: scaleX(0);
+          transform-origin: left;
+          transition: transform 250ms ease-in-out;
+          width: 100%;
+      
+        }
+      }
+    }
   }
 }
 
@@ -350,7 +483,8 @@ select {
   }
   .article-list {
     margin: 1em auto;
-    max-width: 1920px;
-    grid-template-columns: repeat(4, 25%);
+    max-width: 1365px;
+    grid-template-columns: repeat(3, 33.333333333%);
+    grid-gap: 1.5em;
 }
 }

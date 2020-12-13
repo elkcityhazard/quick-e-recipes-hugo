@@ -3,7 +3,7 @@ title: Recipes For Special Occasions and Events
 author: elkcityhazard
 type: page
 date: 2019-12-13T12:58:16+00:00
-
+menu: ["recipes"]
 ---
 Celebrate the special occasions and events of your life with delicious and beautifully presented recipes. Make fond memories of weddings, parties and all your family Holidays. Everyone likes to take pictures during special times, and they&#8217;ll probably be capturing the wonderful food.<figure> 
 

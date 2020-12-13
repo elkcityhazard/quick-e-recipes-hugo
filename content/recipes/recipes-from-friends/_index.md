@@ -3,7 +3,7 @@ title: Recipes From Friends
 author: elkcityhazard
 type: page
 date: 2019-12-13T19:15:00+00:00
-
+menu: ["recipes"]
 ---
 Our friends are eager to share their treasured family recipes with people who love to cook. Recipes from our friends cover everything from homemade entrees and salads, to imaginative side dishes and scratch desserts. They&#8217;ve submitted all their favorites for your enjoyment.
 

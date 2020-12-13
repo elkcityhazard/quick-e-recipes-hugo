@@ -3,7 +3,7 @@ title: Restaurant Sandwich Recipes
 author: elkcityhazard
 type: page
 date: 2019-12-16T15:34:01+00:00
-
+menu: ["recipes"]
 ---
 ## French Dip
 

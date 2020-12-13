@@ -1,6 +1,49 @@
 <footer class="site-footer">
-    <div class="row"></div>
-    <div class="row"></div>
+    <div class="row">
+        <div class="col"><a href="{{ .Site.BaseURL }}">
+            <video src="{{ .Site.BaseURL}}images/echef.mp4" class="logo logo-visible" autoplay></video>
+        </a></div>
+        <div class="col">
+            <ul>
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                    {{ if .HasChildren }}
+                        <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                            <a href="{{ .Site.BaseURL}}">
+                                {{ .Pre }}
+                                <span>{{ .Name }}</span>
+                            </a>
+                        </li>
+                        <ul class="sub-menu">
+                            {{ range .Children }}
+                                <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                                    <a href="{{ .URL }}">{{ .Name }}</a>
+                                </li>
+                            {{ end }}
+                        </ul>
+                    {{ else }}
+                        <li>
+                            <a href="{{ .URL }}">
+                                {{ .Pre }}
+                                <span>{{ .Name }}</span>
+                            </a>
+                        </li>
+                    {{ end }}
+                {{ end }}
+                <!-- <li>
+                    <a href="/" target="_blank">Hardcoded Link 1</a>
+                </li>
+                <li>
+                    <a href="#" target="_blank">Hardcoded Link 2</a>
+                </li> -->
+    
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <p><span id="serviceID"></span> Years In Service</p>
+        <p>&copy; <span id="year"></span> Chef Frank's Quick E Recipes Site developed by <a href="https://andrew-mccall.com" target="_blank" title="Andrew M McCall Traverse City Michigan">Andrew M McCall</a></p>
+    </div>
 </footer>
 
 

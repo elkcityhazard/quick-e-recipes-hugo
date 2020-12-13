@@ -3,7 +3,7 @@ title: Sandwich Recipes
 author: elkcityhazard
 type: page
 date: 2019-12-16T15:22:53+00:00
-
+menu: ["recipes"]
 ---
 Welcome to our Sandwich Section. Have Lunch at Home with Fine Restaurant Style Quality Sandwiches. Scrumptious Open Faced or Grilled restaurant Style Sandwiches like French Dips with Au Jus, English Rarebits, or Grilled Ham And Cheese to Patty Melts. Then go to our Soup Section for Homemade Soups to go with these Simple Delicious Sandwiches.
 

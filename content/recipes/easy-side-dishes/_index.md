@@ -3,6 +3,7 @@ title: Easy Side Dishes
 author: elkcityhazard
 type: page
 date: 2019-12-15T23:48:27+00:00
+menu: ["recipes"]
 
 ---
 Make family meals special with our simple everyday side dish recipes. Whether having a Holiday Party, or a regular family meal, these recipes are quite simple to prepare and we all know that the side dish compliments the meal. The whole family will sit down at the table now!

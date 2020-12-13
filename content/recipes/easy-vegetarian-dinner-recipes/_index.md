@@ -3,6 +3,7 @@ title: Easy Vegetarian Dinner Recipes
 author: elkcityhazard
 type: page
 date: 2019-12-13T14:47:11+00:00
+menu: ["recipes"]
 
 ---
 Welcome to our Delicious Nutritious Vegetarian Recipes and Entree Meals from Casseroles to Side Dishes, Salads and Desserts.

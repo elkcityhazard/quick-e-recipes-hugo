@@ -6,6 +6,14 @@
   font-style: normal;
   font-swap: swap;
 }
+@font-face {
+  font-family: "dejavu_sans_bold";
+  src: url("../dejavu-sans/web-fonts/dejavusans_boldoblique_macroman/");
+  src: url("../dejavu-sans/web-fonts/dejavusans_boldoblique_macroman/?#iefix") format("embedded-opentype"), url("../dejavu-sans/web-fonts/dejavusans_boldoblique_macroman/DejaVuSans-BoldOblique-webfont.woff2") format("woff2"), url("../dejavu-sans/web-fonts/dejavusans_boldoblique_macroman/DejaVuSans-BoldOblique-webfont.woff") format("woff"), url("../dejavu-sans/web-fonts/dejavusans_boldoblique_macroman/DejaVuSans-BoldOblique-webfont.ttf") format("truetype"), url("../dejavu-sans/web-fonts/dejavusans_boldoblique_macroman/DejaVuSans-BoldOblique-webfont.svg#dejavu_sansbold_oblique") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-swap: swap;
+}
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -44,6 +52,11 @@ dd {
   margin: 0;
 }
 
+ul, li {
+  margin: 0;
+  padding: 0;
+}
+
 /* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
 ul[role=list],
 ol[role=list] {
@@ -80,6 +93,46 @@ button,
 textarea,
 select {
   font: inherit;
+}
+
+span strong {
+  font-family: "dejavu_sans_bold", sans-serif, monospace;
+  font-weight: 300;
+}
+
+#hamburger {
+  background: #333;
+  border-radius: 10px;
+  display: block;
+  height: 3px;
+  margin: 0 1em;
+  position: relative;
+  width: 40px;
+}
+
+#hamburger::before,
+#hamburger::after {
+  background: #333;
+  border-radius: 10px;
+  content: "";
+  display: block;
+  height: 3px;
+  position: absolute;
+  width: 40px;
+}
+
+#hamburger:active,
+#hamburger:active::before,
+#hamburger:active::after {
+  transform: blur(5px);
+}
+
+#hamburger::before {
+  top: 7px;
+}
+
+#hamburger::after {
+  bottom: 7px;
 }
 
 /* Remove all animations and transitions for people that prefer not to see them */
@@ -134,6 +187,10 @@ select {
   -webkit-transition: opacity 250ms ease-in-out;
   width: auto;
   max-width: 25vw;
+}
+.row .logo-visible {
+  display: block;
+  opacity: 1 !important;
 }
 .row .main-nav {
   display: block;
@@ -242,6 +299,14 @@ select {
   justify-content: center;
   padding: 1.25em;
 }
+.article-list .sidebar {
+  display: block;
+  margin: 0 auto;
+}
+.article-list .sidebar ul {
+  list-style: none;
+  padding: 0;
+}
 .article-list .post-card {
   position: relative;
 }
@@ -250,19 +315,80 @@ select {
   bottom: 0;
 }
 .article-list .single-page {
+  align-self: center;
+  justify-self: center;
   grid-column-start: 2;
+  grid-column-end: 4;
   max-width: 60ch;
+}
+
+.post-card-image + a {
+  display: block;
+  padding: 1em 1.5em;
+  text-align: center;
+  text-decoration: none;
 }
 
 .site-footer {
   background: #333;
+  color: #fff;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 2fr 48px;
   min-height: 25vh;
 }
+.site-footer .row:first-child {
+  align-items: center;
+  background: #4b4b4b;
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  justify-content: center;
+}
+.site-footer .row:first-child .col {
+  padding: 0 0em;
+  text-align: center;
+}
+.site-footer .row:first-child .col ul {
+  list-style: none;
+  margin: 0 auto;
+  padding-left: 2em;
+  width: auto;
+}
+.site-footer .row:first-child .col ul li {
+  display: inline-block;
+  padding: 0 0.75em;
+  text-align: left;
+}
+.site-footer .row:first-child .col ul li a {
+  color: #fff;
+}
 .site-footer .row:nth-child(2) {
-  background: #111;
+  background: #3d3d3d;
+}
+.site-footer .row:nth-child(2) p {
+  margin: 0 auto;
+  text-align: center;
+}
+.site-footer .row:nth-child(2) p a {
+  color: #fff200;
+  position: relative;
+  text-decoration: none;
+}
+.site-footer .row:nth-child(2) p a:hover::after {
+  transform: scaleX(1);
+}
+.site-footer .row:nth-child(2) p a:after {
+  background: #7d5fff;
+  content: "";
+  display: block;
+  height: 2px;
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 250ms ease-in-out;
+  width: 100%;
 }
 
 /**********************
@@ -298,8 +424,9 @@ select {
 
   .article-list {
     margin: 1em auto;
-    max-width: 1920px;
-    grid-template-columns: repeat(4, 25%);
+    max-width: 1365px;
+    grid-template-columns: repeat(3, 33.333333333%);
+    grid-gap: 1.5em;
   }
 }
 

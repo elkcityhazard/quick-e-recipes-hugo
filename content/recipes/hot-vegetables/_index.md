@@ -3,6 +3,7 @@ title: Hot Vegetables
 author: elkcityhazard
 type: page
 date: 2019-12-16T15:47:38+00:00
+menu: ["recipes"]
 
 ---
 ## Quick and Easy Hot Vegetables

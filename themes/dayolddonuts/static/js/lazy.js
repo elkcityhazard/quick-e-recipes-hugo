@@ -64,3 +64,17 @@ images.forEach(img => {
 // cards.forEach(card => {
 //     slideObserver.observe(card);
 // })
+
+
+
+/**************
+ * Copyright Date
+ */
+
+ const year = document.getElementById('year');
+ const establishedYear = 2007;
+ const currentYear = new Date();
+ const serviceYears = currentYear.getFullYear() - establishedYear;
+ year.innerHTML = currentYear.getFullYear();
+ document.getElementById('serviceID').innerHTML = serviceYears;
+ console.log((serviceYears))

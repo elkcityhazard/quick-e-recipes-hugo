@@ -3,6 +3,7 @@ title: Easy Pork Recipes
 author: elkcityhazard
 type: page
 date: 2019-12-15T01:18:58+00:00
+menu: ["recipes"]
 
 ---
 Welcome to our Pork Entree Section Where We Offer Quick Easy Pork Entrees, Quick Pork Recipes Quick Fried Pork Chops and Easy Honey Baked Ham Recipe which is Awesome in the Fall. Our Honey Barbecue Country Ribs are Fantastic and Easy to Prepare While You Watch the Game, and Easy Stuffed Pork Loin Great for Holidays and Guests. Fire up the Barbecue Grill for the Ribs!

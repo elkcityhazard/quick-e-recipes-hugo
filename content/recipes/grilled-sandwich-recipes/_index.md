@@ -3,6 +3,8 @@ title: Grilled Sandwich Recipes
 author: elkcityhazard
 type: page
 date: 2019-12-16T15:30:14+00:00
+menu: ["recipes"]
+
 
 ---
 Grilled sandwiches have one thing in common, both pieces of bread are buttered on the outside for grilling. Usually on a flat griddle or frying pan. Use medium heat, and don&#8217;t be in a hurry or the out side of the sandwich will be dark, but cold in the middle. If you make a grilled sandwich that uses <a href="/wordpress/institutional-recipes-for-200/honey-baked-ham-recipe-for-200/" rel="noopener noreferrer" target="_blank">ham</a>, it&#8217;s a good idea to heat the ham enough to remove the water, usually 1 minute in the microwave will do it. Other sandwiches that contain several inner items like reubens with sauerkraut and <a href="/wordpress/beef-dishes/baked-corned-beef-recipe/" rel="noopener noreferrer" target="_blank">corned beef</a> can be heated first by microwaving or grilling. The following is a list of grilled sanwiches and their ingredients:
