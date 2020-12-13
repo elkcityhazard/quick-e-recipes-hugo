@@ -190,7 +190,12 @@ span strong {
 }
 .row .logo-visible {
   display: block;
+  margin: 0 auto;
+  min-height: 75px;
+  max-width: 100%;
   opacity: 1 !important;
+  padding: 0 1em;
+  width: auto;
 }
 .row .main-nav {
   display: block;
@@ -334,19 +339,20 @@ span strong {
   color: #fff;
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 2fr 48px;
+  grid-template-rows: 1fr 48px;
   min-height: 25vh;
 }
 .site-footer .row:first-child {
   align-items: center;
   background: #4b4b4b;
   display: grid;
-  grid-template-columns: 1fr 3fr;
+  grid-template-columns: repeat(1fr, 100%);
   justify-content: center;
 }
 .site-footer .row:first-child .col {
-  padding: 0 0em;
+  padding: 0 1em;
   text-align: center;
+  width: 100%;
 }
 .site-footer .row:first-child .col ul {
   list-style: none;
@@ -355,7 +361,7 @@ span strong {
   width: auto;
 }
 .site-footer .row:first-child .col ul li {
-  display: inline-block;
+  display: block;
   padding: 0 0.75em;
   text-align: left;
 }
