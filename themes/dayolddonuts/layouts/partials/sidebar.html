@@ -1,5 +1,10 @@
 <!-- sidebar start -->
 <aside class="sidebar">
+    <header>
+        <h4>
+            Recipes
+        </h4>
+    </header>
     <ul>
         {{ $currentPage := . }}
         {{ range .Site.Menus.recipes }}
@@ -26,11 +31,11 @@
                 </li>
             {{ end }}
         {{ end }}
-        <li>
+        <!-- <li>
             <a href="#" target="_blank">Hardcoded Link 1</a>
         </li>
         <li>
             <a href="#" target="_blank">Hardcoded Link 2</a>
-        </li>
+        </li> -->
     </ul>
 </aside>

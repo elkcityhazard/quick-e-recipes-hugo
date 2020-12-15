@@ -74,7 +74,21 @@ images.forEach(img => {
  const year = document.getElementById('year');
  const establishedYear = 2007;
  const currentYear = new Date();
- const serviceYears = currentYear.getFullYear() - establishedYear;
  year.innerHTML = currentYear.getFullYear();
- document.getElementById('serviceID').innerHTML = serviceYears;
- console.log((serviceYears))
+ 
+
+
+
+ /*******************************
+  * Mobile Nav
+  */
+
+ let nav = document.querySelector('.mobile-nav .col .main-nav ul');
+
+  document.getElementById('mobile-toggle').addEventListener('click', () => {
+      nav.style.height = 100 + 'vh';
+      })
+
+document.getElementById('close').addEventListener ('click', () => {
+    nav.style.height = 0 + 'px';
+})
