@@ -4,8 +4,9 @@ title = "Quick E Recipes - Everyday Family Meals"
 theme = "dayolddonuts"
 unsafeHTML = true
 
-name = Hugo setup
-    uses = peaceiris/actions-hugo@v2.4.13
+
+name = 'Hugo setup'
+    uses = 'peaceiris/actions-hugo@v2.4.13'
 
 
 
