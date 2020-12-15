@@ -301,8 +301,9 @@ span strong {
 }
 
 .main-header {
-  background: #ffffff url("../images/meal-time.jpg") no-repeat;
+  background: #ffffff url("../images/recipes/vegetable-tray.jpg") no-repeat;
   background-size: cover;
+  background-position: center;
   display: grid;
   grid-template-columns: 1fr 1fr 5fr 1fr 1fr;
   grid-template-rows: auto 2fr 1fr;
