@@ -92,3 +92,44 @@ images.forEach(img => {
 document.getElementById('close').addEventListener ('click', () => {
     nav.style.height = 0 + 'px';
 })
+
+
+/******************************
+ * Slider
+ */
+
+const slideContainer = document.querySelector(".slide-container");
+let slides = document.querySelectorAll(".slide");
+let slideIndex = 0;
+let end = undefined;
+
+function start() {
+ if (!end) {
+   slideIndex++;
+   slideContainer.style.transform = `translateX(${slideIndex * -100}%)`;
+ }
+ if (slideIndex >= slides.length) {
+   slideIndex = slides.length;
+   slideContainer.style.transform = `translateX(${slideIndex * -100}%)`;
+   end = true;
+   slideIndex--;
+ }
+ if (end && slideIndex != -1) {
+   slideIndex--;
+   if (slideIndex < 0) {
+     slideIndex = 1;
+     slideContainer.style.transform = `translateX(${slideIndex * -100}%)`;
+     end = false;
+   }
+   slideContainer.style.transform = `translateX(${slideIndex * -100}%)`;
+   
+ }
+}
+
+const run = setInterval(start, 5000);
+
+// slideContainer.addEventListener('click', () => {
+//   clearInterval(run);
+//   console.log('stopped')
+// });
+
