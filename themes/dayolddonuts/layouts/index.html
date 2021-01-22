@@ -3,7 +3,7 @@
 {{ define "main" }}
 <article class="article-list">
 <!-- Ranges through content/posts/*.md -->
-{{ range where .Site.Pages "Section" "recipes" }}
+{{ range .Site.Sections}}
 <div id="post-card" class="grid-item">
     <header class="post-card-header">
         <h2 class="post-card-header">{{ .Title }}</h2>
@@ -12,7 +12,7 @@
     <article class="post-card-body">
         <section class="post-card-body-section">
                 <figure class="post-card-image">
-                    <img data-src="{{ .Params.featured_image}}" alt="{{ .Title}}" width="100%" height="auto" class="lazy">
+                    <a href="{{.Permalink}}" title="{{ .Title}}"> <img data-src="{{ .Site.BaseURL }}{{ .Params.featured_image}}" alt="{{ .Title}}" width="100%" height="auto" style="min-height: 375px;" class="lazy"></a>
                 </figure>
             
             <a href="{{.Permalink}}"> {{.Title}}</a>

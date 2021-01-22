@@ -3,6 +3,7 @@ title: Dessert Recipes
 author: elkcityhazard
 type: page
 date: 2019-12-16T16:33:22+00:00
+menu: ['recipes']
 
 ---
 Welcome to our Dessert Section. The Whole Family will Rave when you Prepare Delicious and Quick Desserts like Traverse City Cherry Pie, and Cherry Torte. Michigan Apple Pie with Spies. Homemade Chocolate Cakes ( even an eggless chocolate cake from scratch that takes only 5 minutes to prepare for the oven), Irish Fluff Puddings, and Scrumptious Fruit Crisps too.
