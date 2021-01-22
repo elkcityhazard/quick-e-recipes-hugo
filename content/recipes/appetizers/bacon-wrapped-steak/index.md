@@ -3,7 +3,7 @@ title: Bacon Wrapped Steak
 author: elkcityhazard
 type: page
 date: 2019-12-11T01:04:25+00:00
-featured_image: /wp-content/uploads/2019/12/bacon-wrapped-steak.jpg
+featured_image: /images/recipes/bacon-wrapped-steak.jpg
 
 ---
 Quick Easy Bacon Wrapped Steak Recipe is a great Appetizer for parties. Bacon Wrapped Steak dipped in Seafood Sauce is nice on your New Year&#8217;s Eve Party.
