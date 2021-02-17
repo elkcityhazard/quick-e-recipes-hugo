@@ -2,14 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Quick E Recipes - Everyday Family Meals</title>
-    <link>/quick-e-recipes-hugo/about/</link>
+    <link>https://quick-e-recipes.com/demo/about/</link>
     <description>Recent content in About on Quick E Recipes - Everyday Family Meals</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Nov 2019 03:41:01 +0000</lastBuildDate>
-    
-	<atom:link href="/quick-e-recipes-hugo/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 15 Nov 2019 03:41:01 +0000</lastBuildDate><atom:link href="https://quick-e-recipes.com/demo/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -13,7 +13,7 @@
     <article class="post-card-body">
         <section class="post-card-body-section">
                 <figure class="post-card-image">
-                    <img data-src="{{ .Params.featured_image}}" alt="{{ .Title}}" width="100%" height="auto" class="lazy">
+                    <img data-src="{{ .Site.BaseURL}}{{ .Params.featured_image}}" alt="{{ .Title}}" width="100%" height="auto" class="lazy">
                 </figure>
             
             <h3><a href="{{.Permalink}}"> {{.Title}}</a></h3>

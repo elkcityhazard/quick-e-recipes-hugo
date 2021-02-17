@@ -176,6 +176,7 @@ span strong {
   transition: 3s ease;
   -webkit-transition: opacity 3s ease;
   opacity: 0;
+  object-fit: cover;
 }
 
 .fadeIn {

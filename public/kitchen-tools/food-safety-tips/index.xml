@@ -2,14 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Food Safety Tips on Quick E Recipes - Everyday Family Meals</title>
-    <link>/quick-e-recipes-hugo/kitchen-tools/food-safety-tips/</link>
+    <link>https://quick-e-recipes.com/demo/kitchen-tools/food-safety-tips/</link>
     <description>Recent content in Food Safety Tips on Quick E Recipes - Everyday Family Meals</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Dec 2019 17:43:05 +0000</lastBuildDate>
-    
-	<atom:link href="/quick-e-recipes-hugo/kitchen-tools/food-safety-tips/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 16 Dec 2019 17:43:05 +0000</lastBuildDate><atom:link href="https://quick-e-recipes.com/demo/kitchen-tools/food-safety-tips/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

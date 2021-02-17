@@ -6,10 +6,13 @@
     content="{{ if .Params.summary }}{{ .Params.summary }}{{ else if .Site.Params.Description }}{{ .Site.Params.Description }}{{ else }}Quick E Recipes - Making Cooking Easy{{ end }}"
   />
   <meta name="author" content="Andrew M McCall @elkcityhazard" />
+  <!-- Control the behavior of search engine crawling and indexing -->
+<meta name="robots" content="noindex, nofollow"><!-- All Search Engines -->
+<meta name="googlebot" content="noindex, nofollow"><!-- Google Specific -->
   <title>
     {{if .IsHome }} {{ .Site.Title }} {{ else }} {{ .Params.title}} - {{ .Site.Title}} {{ end }}
   </title>
-  <link rel="stylesheet" href="/css/main.css" />
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/main.css" />
   <link
     rel="preload"
     href="{{ .Site.BaseURL}}dejavu-sans/web-fonts/dejavusanscondensed_book_macroman/DejaVuSansCondensed-webfont.woff2"
@@ -21,5 +24,4 @@
   <link rel="preload" href="{{ .Site.BaseURL}}dejavu-sans/web-fonts/dejavusans_boldoblique_macroman/DejaVuSans-BoldOblique-webfont.woff">
   <link rel="preload" href="{{ .Site.BaseURL}}dejavu-sans/web-fonts/dejavusans_boldoblique_macroman/DejaVuSans-BoldOblique-webfont.woff2">
   <script data-ad-client="ca-pub-2193697283653138" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
 </head>

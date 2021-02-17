@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "en-us"
 title = "Quick E Recipes - Everyday Family Meals"
 theme = "dayolddonuts"
