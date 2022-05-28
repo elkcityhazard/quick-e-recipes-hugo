@@ -30,3 +30,18 @@ fields:
     max: 
   label: tags
   description: enter tags
+- name: publishdate
+  type: datetime
+  label: publishDate
+  description: Enter Publish Date
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
+  description: upload your image
