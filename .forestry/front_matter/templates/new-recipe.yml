@@ -23,10 +23,10 @@ fields:
   label: Category
   description: Enter One Category
 - name: tags
-  type: field_group_list
+  type: list
   config:
+    use_select: false
     min: 
     max: 
-    labelField: 
-  label: Tags
-  description: Tags
+  label: tags
+  description: enter tags
