@@ -15,6 +15,8 @@ image: "/uploads/festive_tuna-stuffed_tomatoes_640x428.jpg"
 description: Tuna Tomato Lotus, Quick Easy Recipe for a Summer Luncheon Salad. Starred
   Fresh Tomato Stuffed with Tuna Salad Topped with Green Pepper Strips. Tuna Tomato
   Lotus With a Bowl of Soup, Healthy!
+image_title: myfoodandfamily.com
+image_url: https://www.myfoodandfamily.com/recipe/070029/tuna-stuffed-tomatoes
 
 ---
 Tuna Tomato Lotus: a delicious summertime fresh garden salad that is very simple to make.  It will also impress your friends and family when they come for lunch.  This is a fantastic salad to make when you are going on a picnic or playing cards with your friends.   Starred Fresh Tomato Stuffed with Tuna Salad Topped with Green Pepper Strips. Tuna Tomato Lotus with a Bowl of Soup, Healthy!
