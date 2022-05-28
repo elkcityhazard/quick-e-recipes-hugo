@@ -1,4 +1,12 @@
 ---
 label: New Recipe
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+    max: 280
+    min: 20
+  label: Title
+  description: Enter The Page Title Here
