@@ -10,3 +10,23 @@ fields:
     min: 20
   label: Title
   description: Enter The Page Title Here
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
+  description: 'enter meta description '
+- name: category
+  type: text
+  config:
+    required: false
+  label: Category
+  description: Enter One Category
+- name: tags
+  type: field_group_list
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Tags
+  description: Tags
