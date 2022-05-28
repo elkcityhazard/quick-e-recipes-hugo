@@ -45,5 +45,17 @@ fields:
     maxSize: 64
   label: image
   description: upload your image
+- name: image_title
+  type: text
+  config:
+    required: false
+  label: image title
+  description: enter image credit title
+- name: image_url
+  type: text
+  config:
+    required: false
+  label: image_url
+  description: enter url to image credit
 pages:
 - content/recipes/seafood-dishes/tuna-tomato-lotus-recipe/index.md
