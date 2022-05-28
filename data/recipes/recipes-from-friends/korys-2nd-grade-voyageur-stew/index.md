@@ -1,10 +1,10 @@
 ---
 title: Kory’s 2nd Grade Voyageur Stew
+date: 2019-12-13 23:12:06 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T23:12:06+00:00
-
 ---
+
 This Recipe for Kory&#8217;s 2nd Grade Voyageur Stew is Hearty, Easy, and Fun. The [Kids][1] Love to Help Make This While Camping or at Home &#8220;Chillin&#8221; With The Family. Don&#8217;t Forget the Dutch Oven!
 
 ## Kory&#8217;s 2nd Grade Voyageur Stew

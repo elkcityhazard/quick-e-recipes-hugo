@@ -1,10 +1,10 @@
 ---
 title: Hamburger Gravy Recipe
+date: 2019-12-14 22:27:31 Z
 author: elkcityhazard
 type: page
-date: 2019-12-14T22:27:31+00:00
-
 ---
+
 Simple hamburger gravy on the nights you&#8217;re in a rush. Put over [mashed potatoes][1] and it only takes a few minutes to prepare. Goes well with [salads][2], vegetables or [breads][3].
 
 ## Hamburger Gravy &#8211; Simple Family Dinner Recipe 

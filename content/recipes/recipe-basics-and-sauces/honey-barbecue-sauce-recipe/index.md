@@ -1,10 +1,10 @@
 ---
 title: Honey Barbecue Sauce Recipe
+date: 2019-12-12 14:30:12 Z
 author: elkcityhazard
 type: page
-date: 2019-12-12T14:30:12+00:00
-
 ---
+
 Try Chef Frank&#8217;s Homemade Honey Barbecue Sauce when you&#8217;re grilling outside in the summer or cooking inside when it&#8217;s not so warm out. This sauce makes your [ribs][1], [chicken][2], or [steak][3] come alive with the sweet taste of [local honey][4].
 
 ## Honey Barbecue Sauce Ingredients

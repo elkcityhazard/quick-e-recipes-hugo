@@ -1,10 +1,10 @@
 ---
 title: Michigan Apple Sauce
+date: 2019-12-13 13:03:06 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T13:03:06+00:00
-
 ---
+
 Michigan applesauce is easy to prepare on the stove, and using tart Michigan apples is the only way to go.
 
 ## Michigan Apple Sauce Recipe

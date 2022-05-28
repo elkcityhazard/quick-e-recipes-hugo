@@ -1,10 +1,10 @@
 ---
 title: Karen’s Grape Salad
+date: 2019-12-13 22:59:22 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T22:59:22+00:00
-
 ---
+
 This Wonderful Salad Made from Fresh Grapes is Great for Potluck Dinners, <a href="/wordpress/recipes-for-special-occasions-and-events/" rel="noopener noreferrer" target="_blank">Holidays</a>, <a href="/wordpress/grilling-cookouts-and-barbecues/" rel="noopener noreferrer" target="_blank">Picnics and Barbecues</a>,or Anytime, and can be Made the Night Before.
 
 ## Karen&#8217;s Grape Salad

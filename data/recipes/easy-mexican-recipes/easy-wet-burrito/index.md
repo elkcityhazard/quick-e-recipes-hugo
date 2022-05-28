@@ -1,10 +1,10 @@
 ---
 title: Easy Wet Burrito
+date: 2019-12-16 14:24:10 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T14:24:10+00:00
-
 ---
+
 Quick Mexican Wet Burrito is excellent for Lunch or Supper, and adds an Ethnic Flare to any everyday Mexican Meal.
 
 ## Wet Burrito Ingredients

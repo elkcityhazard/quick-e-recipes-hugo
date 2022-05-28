@@ -1,10 +1,10 @@
 ---
 title: Peanut Butter Oatmeal Cookies
+date: 2019-12-16 17:08:36 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T17:08:36+00:00
-
 ---
+
 Delicious Peanut Butter Oatmeal Cookies, Quick and Easy for any Occasion. Kids love them for [After School Snacks][1], or Dessert after Supper or Lunch.
 
 ## Peanut Butter Oatmeal Cookies Recipe

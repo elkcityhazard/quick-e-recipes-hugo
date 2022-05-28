@@ -1,10 +1,10 @@
 ---
 title: Easy Chocolate Chip Cookies
+date: 2019-12-16 17:04:06 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T17:04:06+00:00
-
 ---
+
 Chocolate Chip Cookies are easy to make with this Quick Easy Recipe. Use real Chocolate Chips with these Cookies and let the [Kids][1] help.
 
 ## Chocolate chip cookies Ingredients

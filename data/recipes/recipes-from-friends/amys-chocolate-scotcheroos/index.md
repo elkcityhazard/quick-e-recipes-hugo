@@ -1,10 +1,10 @@
 ---
 title: Amy’s Chocolate Scotcheroos
+date: 2019-12-13 19:19:19 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T19:19:19+00:00
-
 ---
+
 Cure your Sweet Tooth With Amy&#8217;s Chocolate Scotcheroos and don&#8217;t forget to share. This Dessert will Please the Pickiest Eaters.
 
 ## Amy&#8217;s Chocolate Scotcheroos Recipe

@@ -1,10 +1,10 @@
 ---
 title: Vegetarian Honey Barbecue Sauce
+date: 2019-12-10 17:27:46 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T17:27:46+00:00
-
 ---
+
 Prepare this vegetarian honey barbecue sauce recipe when you&#8217;re [grilling][1] outside or cooking inside. It makes your vegetarian burgers, and ribs taste amazing.
 
 ## Vegetarian Honey Barbecue Sauce Ingredients

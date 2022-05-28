@@ -1,10 +1,10 @@
 ---
 title: Lobster Thermidor Recipe
+date: 2019-12-13 13:59:17 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T13:59:17+00:00
-
 ---
+
 Quick Easy Lobster Thermidor Recipe is made from Maine or African Rock Lobster. An Elegant Recipe for a Special Dinner. Lobster Thermidor is easy to Prepare and Serve.
 
 ## Lobster Thermidor Ingredients

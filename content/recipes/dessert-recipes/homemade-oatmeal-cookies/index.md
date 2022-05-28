@@ -1,10 +1,10 @@
 ---
 title: Homemade Oatmeal Cookies
+date: 2019-12-16 17:08:03 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T17:08:03+00:00
-
 ---
+
 Scratch Oatmeal Cookies with raisins or dried fruit or nuts is a real treat, and only Takes 5-7 Minutes to Prepare. Oatmeal Cookies are a <a href="/wordpress/kids-corner-recipes/" rel="noopener noreferrer" target="_blank">Great After School Snack</a>.<figure> 
 
 ![Oatmeal Cookies][1] <figcaption>Holy Smokes! Check out those awesome oatmeal cookies!</figcaption></figure> 

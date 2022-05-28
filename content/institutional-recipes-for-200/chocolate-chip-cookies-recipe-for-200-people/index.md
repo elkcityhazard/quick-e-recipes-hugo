@@ -1,10 +1,10 @@
 ---
 title: Chocolate Chip Cookies Recipe For 200 People
+date: 2019-12-11 15:00:07 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T15:00:07+00:00
-
 ---
+
 Real Chocolate Chip Cookies are Quick and [Easy Scratch Cookies][1] to make for Gatherings, Large Groups, Camps, or Schools. Kids love them and will want them again! Quick Easy Institutional Recipe.
 
 ## Real Chocolate Chip Cookies Recipe for 200 People

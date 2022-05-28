@@ -1,11 +1,10 @@
 ---
-# title: "Easy Mexican Recipes"
+date: 2019-12-16 04:18:59 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T04:18:59+00:00
-featured_image: /wp-content/uploads/2020/01/easy-mexican-fajitas.jpg
-
+featured_image: "/wp-content/uploads/2020/01/easy-mexican-fajitas.jpg"
 ---
+
 Welcome to our Mexican Recipes Section. Cook and Serve Awesome Quick Mexican Recipes. Authentic Wraps, Stir Fry, Salsa, Burritos and Rice, Dips, and Sauces, All to Make You Say Ole&#8217;.
 
 ## Easy Mexican Recipes

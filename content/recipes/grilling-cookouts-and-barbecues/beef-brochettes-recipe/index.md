@@ -1,10 +1,10 @@
 ---
 title: Beef Brochettes Recipe
+date: 2019-12-12 15:02:55 Z
 author: elkcityhazard
 type: page
-date: 2019-12-12T15:02:55+00:00
-
 ---
+
 Quick Easy Beef Brochettes Recipe is great in the summer for a barbecue on the patio, or inside under the broiler. Fresh Beef and Vegetables Brochettes, Marinated and Skewered.
 
 _Here&#8217;s a great recipe for your summer cookout!_

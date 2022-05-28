@@ -1,10 +1,10 @@
 ---
 title: Easy Peanut Butter Cookies Recipe
+date: 2019-12-16 17:06:18 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T17:06:18+00:00
-
 ---
+
 Scratch Peanut Butter Cookies take only ten minutes to prepare and ten minutes to cook. The hardest part is waiting for them to cool. Make these for Christmas or any [Holiday][1] and place chocolate stars on top of the cookies as soon as they come out of the oven.<figure> 
 
 ![Scratch Peanut Butter Cookies][2] <figcaption>Check out these awesome homemade peanut butter cookies!</figcaption></figure> 

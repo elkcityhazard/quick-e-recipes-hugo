@@ -1,10 +1,10 @@
 ---
 title: Ukrainian Borscht Recipe
+date: 2019-12-16 15:07:01 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T15:07:01+00:00
-
 ---
+
 A Wonderful Ethnic Soup Recipe Directly from a <a href="/wordpress/recipes-from-friends/" rel="noopener noreferrer" target="_blank">Friend</a> of ours from Ukraine. Katryana&#8217;s Ukrainian Borscht with <a href="/wordpress/quick-and-easy-chicken-recipes/" rel="noopener noreferrer" target="_blank">Fresh Chicken</a> will Satisfy even a Picky Eater.
 
 ## Ukrainian Borscht with Fresh Chicken Ingredients

@@ -1,10 +1,10 @@
 ---
 title: Mango Sweet and Sour Chicken Arbutus
+date: 2019-12-11 16:13:32 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T16:13:32+00:00
-
 ---
+
 Quick and Easy Institutional Recipes to Prepare for 200 People with Fresh Mangoes, and any Red Sweet and Sour Sauce. Fresh Chicken Breasts are baked with our Mango Sweet and Sour Sauce for Chicken Arbutus. This is Named after one of our Best Places in Michigan to be, and for the Special People that Reside There.
 
 ## Ingredients

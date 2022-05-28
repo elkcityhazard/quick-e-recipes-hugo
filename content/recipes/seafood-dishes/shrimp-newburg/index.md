@@ -1,10 +1,10 @@
 ---
 title: Shrimp Newburg
+date: 2019-12-15 21:43:37 Z
 author: elkcityhazard
 type: page
-date: 2019-12-15T21:43:37+00:00
-
 ---
+
 ## Shrimp Newburg Directions
 
   * 2 lbs shrimp,peeled, deveined, 21-25 size, raw

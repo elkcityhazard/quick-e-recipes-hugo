@@ -1,10 +1,10 @@
 ---
 title: Microwave Caramel Corn
+date: 2019-12-11 01:21:23 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T01:21:23+00:00
-
 ---
+
 This quick and easy microwave caramel corn recipe is a hit with [kids][1] and adults alike. Microwave caramel corn is a fun project to do with kids on those cold winter days.
 
 ## Microwave Caramel Corn Recipe

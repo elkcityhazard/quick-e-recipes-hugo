@@ -1,10 +1,10 @@
 ---
 title: Focaccia Pizza, Vegetarian Pita Bread and Fresh Mozzarella
+date: 2019-12-11 01:09:59 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T01:09:59+00:00
-
 ---
+
 [Vegetarians][1] will be Excited with this Pita Facaccia Pizza. Fresh Mozzarella, Basil, Vegetables, and Homemade Pesto is a Quick Easy Lunch or Dinner. Top off with any [salad][2] or fruit.
 
 ## Focaccia Pizza on Pita with Fresh Mozzarella and Pesto

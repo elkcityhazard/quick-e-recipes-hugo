@@ -1,10 +1,10 @@
 ---
 title: Easy Mexican Cheese Dip
+date: 2019-12-16 14:19:22 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T14:19:22+00:00
-
 ---
+
 Mexican Cheese Dip with ground beef, is an easy appetizer for dipping crackers, nacho chips, and tortilla chips. This Dip is a great party staple to go with your other [appetizers][1] or for an after school snack for the kids.
 
 ## Mexican Cheese Dip

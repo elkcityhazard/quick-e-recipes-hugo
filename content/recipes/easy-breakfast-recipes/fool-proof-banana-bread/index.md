@@ -1,10 +1,10 @@
 ---
 title: Fool Proof Banana Bread
+date: 2019-12-10 14:15:44 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T14:15:44+00:00
-
 ---
+
 Homemade banana bread is truly foolproof and will only take a few minutes to prepare. Take advantage of variations to this recipe by adding nuts of your choice. 1 Hour in the oven and everyone is enjoying warm banana bread!
 
 ![banana bread][1] 

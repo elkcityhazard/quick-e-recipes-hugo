@@ -1,10 +1,10 @@
 ---
 title: Simple Vegetarian Goulash
+date: 2019-12-10 17:12:07 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T17:12:07+00:00
-
 ---
+
 <vegetarian goulash is a delicious recipe made with tomato sauce, pasta, fresh cut vegetables and cheese. Great for Lunch or Supper and can be served with [salads][1], [vegetables][2], fruit, and hot rolls with [honey butter.][3]/p>
 
 ## Vegetarian Goulash Ingredients

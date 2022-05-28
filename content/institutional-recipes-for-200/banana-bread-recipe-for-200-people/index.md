@@ -1,10 +1,10 @@
 ---
 title: Banana Bread And Muffins Recipe For 200 People
+date: 2019-12-11 14:51:23 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T14:51:23+00:00
-
 ---
+
 ## Banana Bread Recipe For 200
 
 ![banana bread recipe for 200][1] 

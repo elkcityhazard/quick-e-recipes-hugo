@@ -1,11 +1,11 @@
 ---
 title: Buffalo Style Hot Wings Recipe
+date: 2019-12-11 02:01:42 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T02:01:42+00:00
-featured_image: /wp-content/uploads/2020/01/hot-chicken-wings.jpg
-
+featured_image: "/wp-content/uploads/2020/01/hot-chicken-wings.jpg"
 ---
+
 Buffalo Style Hot Wings Make a Great Appetizer. Serve at birthday parties, [Holiday gatherings][1] or any social event.
 
 ## Hot Wings Recipe

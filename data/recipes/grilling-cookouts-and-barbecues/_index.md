@@ -1,10 +1,10 @@
 ---
 title: Grilling, Cookouts, And Barbecues
+date: 2019-12-12 03:46:50 Z
 author: elkcityhazard
 type: page
-date: 2019-12-12T03:46:50+00:00
-
 ---
+
 Fire up the grill with fun cookouts and barbecues for summer. Have fun grilling with family and friends on the patio, at the park beach, and back yard too. You&#8217;ll probably want a cold beer, so you might as well break out the horse shoes.
 
 ## Cookout and Barbecue Recipes

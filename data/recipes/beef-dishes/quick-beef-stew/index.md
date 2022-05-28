@@ -1,10 +1,10 @@
 ---
 title: Quick Beef Stew
+date: 2019-12-14 22:19:48 Z
 author: elkcityhazard
 type: page
-date: 2019-12-14T22:19:48+00:00
-
 ---
+
 Quick Easy Beef Stew will warm your heart and tummy. Beef Stew with vegetables and thick gravy is great with [biscuits][1] and a salad or fruit. Beef Stew always makes good leftovers.
 
 ## Beef Stew Recipe

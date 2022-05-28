@@ -1,10 +1,10 @@
 ---
 title: Easy Cinnamon Crunchies
+date: 2019-12-11 01:15:55 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T01:15:55+00:00
-
 ---
+
 Quick Easy Cinnamon Crunchies are an Easy Recipe for after school snacks or a [kids party][1]. Easy Cinnamon Crunchies from [pie crust][2], butter, cinnamon, and sugar. Eat them warm.
 
 Skippy loves kids and wants you to learn to cook these great foods! There&#8217;s more recipes to come!

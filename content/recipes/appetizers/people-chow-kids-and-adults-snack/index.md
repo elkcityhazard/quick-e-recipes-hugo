@@ -1,10 +1,10 @@
 ---
 title: People Chow – Kids and Adults Snack
+date: 2019-12-11 01:25:17 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T01:25:17+00:00
-
 ---
+
 Quick Easy People Chow Recipe is a favorite among [kids][1] and adults alike. People Chow has chocolate and peanut butter goodness. A great Birthday treat!
 
 ## People Chow Recipe

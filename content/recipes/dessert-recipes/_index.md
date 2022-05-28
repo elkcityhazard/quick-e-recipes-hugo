@@ -1,4 +1,6 @@
 ---
 title: Dessert Recipes
-menu: ["recipes"]
+menu:
+- recipes
 ---
+

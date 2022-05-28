@@ -1,10 +1,10 @@
 ---
 title: Easy Teriyaki Sauce Recipe
+date: 2019-12-12 03:57:41 Z
 author: elkcityhazard
 type: page
-date: 2019-12-12T03:57:41+00:00
-
 ---
+
 Teriyaki sauce made with soy sauce, pineapple juice, brown sugar, and spices. Teriyaki sauce can be used with [chicken][1], [steak][2], and [stir fry][3]. Teriyaki sauce is great for the back yard barbecue or under the broiler of your stove.
 
 ## Teriyaki Sauce Ingredients

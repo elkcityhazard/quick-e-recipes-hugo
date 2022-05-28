@@ -1,11 +1,11 @@
 ---
 title: Privacy Policy
+date: 2020-12-08 02:18:05 Z
 author: elkcityhazard
 type: page
-date: 2020-12-08T02:18:05+00:00
 draft: true
-
 ---
+
 ## Who we are
 
 Our website address is: http://quickerecipes.local.

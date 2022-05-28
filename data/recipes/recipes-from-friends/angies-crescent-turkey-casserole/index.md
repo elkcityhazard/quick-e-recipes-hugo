@@ -1,10 +1,10 @@
 ---
 title: Angie’s Crescent Turkey Casserole
+date: 2019-12-13 22:29:52 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T22:29:52+00:00
-
 ---
+
 Angie&#8217;s Crescent Turkey Casserole is Easy to Prepare in a Slow Cooker while Away, or at Home in Time for Supper. We have to Call this Comfort Food. Serve with [Salads][1], Fresh Vegetables or Fruits. Ready in 30 Minutes.
 
 ## Angie&#8217;s Crescent Turkey Casserole

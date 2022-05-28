@@ -1,10 +1,10 @@
 ---
 title: Quick Au Jus
+date: 2019-12-16 17:31:48 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T17:31:48+00:00
-
 ---
+
 Au Jus, Quick and Easy on the Stove or From Drippings, Great for <a href="/wordpress/chef-franks-seasoning-recipes/holiday-prime-rib-roast-with-au-jus/" rel="noopener noreferrer" target="_blank">Prime Rib</a> During Holidays or Special Function Dinners. This Quick and Easy Au Jus is Made With a Touch of Wine!
 
 ## Au Jus Recipe

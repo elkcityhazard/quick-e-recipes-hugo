@@ -1,10 +1,10 @@
 ---
 title: Tossed Garden Salad Recipe
+date: 2019-12-12 15:28:43 Z
 author: elkcityhazard
 type: page
-date: 2019-12-12T15:28:43+00:00
-
 ---
+
 Fresh Garden Tossed Salad is Friends with your Favorite [Soup][1] or [Sandwich][2], and is Healthy and Delicious.
 
 ## Tossed Salad Ingredients

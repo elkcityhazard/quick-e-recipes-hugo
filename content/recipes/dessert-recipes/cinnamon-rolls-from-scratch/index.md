@@ -1,10 +1,10 @@
 ---
 title: Cinnamon Rolls From Scratch
+date: 2019-12-16 16:38:13 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T16:38:13+00:00
-
 ---
+
 Cinnamon Rolls from scratch are indeed memorable especially with caramel sauce or frosting. Homemade cinnamon rolls are a fun project for the whole family. Let the [kids][1] help too!
 
 ## Sweet Dough Cinnamon Rolls Homemade from Scratch

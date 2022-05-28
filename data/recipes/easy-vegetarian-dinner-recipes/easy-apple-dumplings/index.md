@@ -1,10 +1,10 @@
 ---
 title: Easy Apple Dumplings
+date: 2019-12-13 15:06:54 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T15:06:54+00:00
-
 ---
+
 Apple Dumplings Quick and Easy Recipe to Prepare for Family and Guests. Warm Apple Dumplings a Great Recipe to Top off with Ice Cream. Serve Warm Apple Dumplings for a [Party Finale][1].
 
 ## Apple Dumplings Ingredients

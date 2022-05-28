@@ -1,10 +1,10 @@
 ---
 title: Terms Of Service
+date: 2020-01-01 22:08:04 Z
 author: elkcityhazard
 type: page
-date: 2020-01-01T22:08:04+00:00
-
 ---
+
 ## Chef Frank&#8217;s Specialty Foods & Gifts
 
 ### Terms Of Service

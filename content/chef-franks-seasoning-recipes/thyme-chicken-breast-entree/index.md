@@ -1,10 +1,10 @@
 ---
 title: Thyme Chicken Breast Entree
+date: 2019-12-10 18:18:33 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T18:18:33+00:00
-
 ---
+
 Thyme chicken breast is prepared with fresh thyme, herbs and spices, then baked in the oven. It makes a good partner to wild rice, or [roasted red potatoes][1], corn bread, salad or fruit.
 
 ## Thyme Chicken Breast Ingredients

@@ -1,10 +1,10 @@
 ---
 title: Simple and Tasty Potato Wedges
+date: 2019-12-10 17:07:08 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T17:07:08+00:00
-
 ---
+
 Try these easy potato wedges made from red, russet, or sweet potatoes. Simply cut wedges, butter, season, and bake. Potato wedges are a great snack or side dish for any main entree.
 
 ## Potato Wedges Ingredients

@@ -1,10 +1,10 @@
 ---
 title: Simple Lime Chicken Entree
+date: 2019-12-10 17:55:52 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T17:55:52+00:00
-
 ---
+
 Delicious lime chicken, southwest style, made from cut up chicken or boneless breasts. Fresh lime and zest with [Chef Frank&#8217;s Seasoning][1], puts it over the top!
 
 ## Lime Chicken Ingredients

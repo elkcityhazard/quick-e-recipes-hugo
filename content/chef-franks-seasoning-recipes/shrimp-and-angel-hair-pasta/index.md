@@ -1,12 +1,13 @@
 ---
 title: Shrimp and Angel Hair Pasta
+date: 2019-12-10 17:51:47 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T17:51:47+00:00
 header_snippet:
-  - "Wonderful shrimp with angel hair pasta. So easy to prepare with fresh mushrooms, ocean shrimp, olive oil, and seasonings. A satisfying meal that's easy to make."
-
+- Wonderful shrimp with angel hair pasta. So easy to prepare with fresh mushrooms,
+  ocean shrimp, olive oil, and seasonings. A satisfying meal that's easy to make.
 ---
+
 ## Shrimp and Angel Hair Pasta Ingredients
 
 Serves 4

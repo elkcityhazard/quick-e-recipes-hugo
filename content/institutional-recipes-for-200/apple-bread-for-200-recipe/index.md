@@ -1,10 +1,10 @@
 ---
 title: Apple Bread For 200 Recipe
+date: 2019-12-11 14:14:05 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T14:14:05+00:00
-
 ---
+
 Our apple bread recipe is easy to make about a 15 minute prep time. This recipe from scratch will keep your clients happy. Apple quick bread for 200 will enhance any [breakfast][1] and makes great muffins too.
 
 ## Apple Bread Or Muffins For 200

@@ -1,10 +1,10 @@
 ---
 title: Honey Barbecue Teriyaki Chicken
+date: 2019-12-12 14:52:28 Z
 author: elkcityhazard
 type: page
-date: 2019-12-12T14:52:28+00:00
-
 ---
+
 Honey Barbecue Teriyaki Chicken, Quick and Easy Recipe for Summer Barbecues or Fall Meals From The Oven. Finish Under the Broiler, Serve with You Favorite Side Dishes.
 
 ## Chicken Ingredients

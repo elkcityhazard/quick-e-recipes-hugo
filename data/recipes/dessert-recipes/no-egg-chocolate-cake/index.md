@@ -1,10 +1,10 @@
 ---
 title: No Egg Chocolate Cake
+date: 2019-12-16 16:40:30 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T16:40:30+00:00
-
 ---
+
 Quick Easy Chocolate Cake Uses no Egg and only Takes 5 Minutes, Then In The oven It Goes. Great for Egg Allergies. Make Cupcakes and [Frost][1] For Birthdays or any Party.<figure> 
 
 ![No Egg Chocolate Cake][2] <figcaption>Can you believe that this beautiful chocolate cake has no egg?</figcaption></figure> 

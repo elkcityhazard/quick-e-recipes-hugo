@@ -1,10 +1,10 @@
 ---
 title: Holiday Prime Rib Roast with Au Jus
+date: 2019-12-10 16:31:44 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T16:31:44+00:00
-
 ---
+
 Celebrate the Holidays with our very special Prime Rib Roast recipe. It includes an awesome [Au Jus][1] recipe. Follow the links to festive [side dishes][2] too.
 
 ![Prime Rib With Au Jus][3] 

@@ -1,10 +1,10 @@
 ---
 title: Vegetarian Spaghetti Recipe
+date: 2019-12-13 15:37:48 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T15:37:48+00:00
-
 ---
+
 Vegetarian Homemade Spaghetti Sauce with Optional TVP (textured vegetable protein) is Quick and Easy to Make. Let Simmer on the Stove, Crockpot, or in the Oven. Our Homemade Scratch Spaghetti Sauce Recipes are a Breeze for Busy People. Serve over Penne, Ravioli, Spaghetti Pasta, and Makes an <a href="/wordpress/appetizers/focaccia-pizza-vegetarian-pita-bread-and-fresh-mozzarella/" rel="noopener noreferrer" target="_blank">Excellent Pizza </a>Sauce too.
 
 ## Vegetarian Spaghetti Sauce Ingredients

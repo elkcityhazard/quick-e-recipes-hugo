@@ -1,10 +1,10 @@
 ---
 title: Apple Sage and Walnut Stuffing Recipe
+date: 2019-12-13 13:10:30 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T13:10:30+00:00
-
 ---
+
 Apple Sage and Walnut Stuffing Recipe Made with Michigan Apples is a Quick and Easy Recipe to Prepare. Apple Sage Walnut Stuffing for your <a href="/wordpress/chef-franks-seasoning-recipes/roasted-turkey-recipes-for-the-holidays/" rel="noopener noreferrer" target="_blank">Thanksgiving Meal</a> Will ad a Warm Charm to your Holiday Feast.
 
 ## Apple Sage Walnut Stuffing Ingredients

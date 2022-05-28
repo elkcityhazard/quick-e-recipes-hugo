@@ -1,10 +1,10 @@
 ---
 title: Southern Fried Pork Chops
+date: 2019-12-15 01:28:59 Z
 author: elkcityhazard
 type: page
-date: 2019-12-15T01:28:59+00:00
-
 ---
+
 Fried Pork Chops, Quick Easy Southern Recipe Using Egg, Milk, and Spices Then Rolled in Crushed Crackers and Fried. Fried Pork Chops for Supper Tonight! How Easy is That!
 
 ![Southern Fried Pork Chops][1] 

@@ -1,10 +1,10 @@
 ---
 title: Turkey Salad With Michigan Apples
+date: 2019-12-12 15:37:38 Z
 author: elkcityhazard
 type: page
-date: 2019-12-12T15:37:38+00:00
-
 ---
+
 Quick Easy Turkey Salad Made with Michigan Apples and Lightly Blanched Almonds and Raisins. Dried Michigan cherries are nice too. Use as Side Dish Salad or a Sandwich. You can Stuff a Garden Ripe Tomato for a [Great Lotus][1].
 
 ## Turkey salad, with apples, raisins, and almonds Ingredients

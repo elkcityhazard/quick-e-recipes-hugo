@@ -1,10 +1,10 @@
 ---
 title: Vegetarian Northern Michigan Bean Soup
+date: 2019-12-13 15:25:29 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T15:25:29+00:00
-
 ---
+
 Vegetarian Northern Michigan Bean Soup is a Quick and Easy Comfort Soup Recipe. Soak the Beans a Day Ahead in the Fridge. Easy Next Day Prep. Great With <a href="/wordpress/sandwich-recipes/" rel="noopener noreferrer" target="_blank">Sandwiches</a>, <a href="/wordpress/easy-breakfast-recipes/banana-muffins/" rel="noopener noreferrer" target="_blank">Muffins</a>, Crackers or <a href="/wordpress/vegetables-and-salad-recipes/" rel="noopener noreferrer" target="_blank">Salads</a>. 
 
 This soup is a staple for Northern Michigan and is easy to prepare!

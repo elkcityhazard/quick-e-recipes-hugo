@@ -1,10 +1,10 @@
 ---
 title: Orange Gelatin Salad Recipe
+date: 2019-12-11 02:10:04 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T02:10:04+00:00
-
 ---
+
 Quick Easy Orange Gelatin Salad is a special [Holiday Treat][1] at the end of a great meal. Orange Gelatin Salad has pineapple, manderin oranges and whipped cream. A wonderful [dessert][2].
 
 ## Holiday Orange Gelatin 

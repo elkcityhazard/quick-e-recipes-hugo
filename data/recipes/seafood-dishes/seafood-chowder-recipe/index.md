@@ -1,10 +1,10 @@
 ---
 title: Seafood Chowder Recipe
+date: 2019-12-16 15:12:38 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T15:12:38+00:00
-
 ---
+
 Seafood Chowder, Quick Easy Thick Creamy Soup and Chowder Recipe. Use Your Choice of Scallops, Shrimp, Crab or Lobster. Fun and Simple to Prepare. Seafood Chowder is a Great Lunch. Serve With Oyster Crackers, a <a href="/wordpress/sandwich-recipes/" rel="noopener noreferrer" target="_blank">Sandwich</a> or <a href="/wordpress/vegetables-and-salad-recipes/" rel="noopener noreferrer" target="_blank">Salad</a>.
 
 ## Seafood Chowder Ingredients

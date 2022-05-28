@@ -1,10 +1,10 @@
 ---
 title: Apple Bread
+date: 2019-12-10 13:59:40 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T13:59:40+00:00
-
 ---
+
 Everyone loves apple [bread][1] made from Michigan apples for breakfast. Apple muffins too, and company will love it. Add raisins or dried cherries in the mix if you wish.
 
   * 2 cups flour

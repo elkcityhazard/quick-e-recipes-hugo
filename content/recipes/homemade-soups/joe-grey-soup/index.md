@@ -1,11 +1,11 @@
 ---
-title: "Joe Grey Soup"
+title: Joe Grey Soup
+date: 2020-10-06 02:34:38 Z
 author: elkcityhazard
 type: single
-date: 2020-10-06T02:34:38+00:00
-featured_image: /wp-content/uploads/2020/10/potatoes-scaled-1-1200x900.jpg
-
+featured_image: "/wp-content/uploads/2020/10/potatoes-scaled-1-1200x900.jpg"
 ---
+
 ## Traditional Gypsy Stew
 
 Joe Grey is a traditional Gypsy stew often made with sausage and bacon but can be modified to fit whatever flavor profile, or ingredients in your refrigerator, that you might desire. 

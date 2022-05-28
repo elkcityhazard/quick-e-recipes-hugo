@@ -1,10 +1,10 @@
 ---
 title: Vegetarian Split Pea Soup
+date: 2019-12-13 15:31:39 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T15:31:39+00:00
-
 ---
+
 Vegetarian Split Pea Soup is a Quick Easy Recipe to Warm up any Cold Day. Our split pea soup recipe has fresh carrots, onion, celery, and potatoes, slow cooked for perfection. Break out the crackers.
 
 ## Vegetarian Split Pea Soup Ingredients

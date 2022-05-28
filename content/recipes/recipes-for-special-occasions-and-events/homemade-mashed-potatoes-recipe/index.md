@@ -1,10 +1,10 @@
 ---
 title: Homemade Mashed Potatoes Recipe
+date: 2019-12-13 14:03:44 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T14:03:44+00:00
-
 ---
+
 Quick Easy Mashed Potatoes Recipe can be made with Red, White, Russet or a Combination of any of these. Mashed Potatoes are an American Staple.
 
 ## Mashed Potatoes Ingredients

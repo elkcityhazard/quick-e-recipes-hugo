@@ -1,10 +1,10 @@
 ---
 title: Easy Breakfast Recipes
+date: 2019-11-15 14:10:44 Z
 author: elkcityhazard
 type: page
-date: 2019-11-15T14:10:44+00:00
-
 ---
+
 Breakfast is the most important meal of the day and it gets your metabolism going. A good thing to do first thing in the morning is to drink an 8 oz glass of water with two tablespoons of lemon juice added. This will help kick start your metabolism. Then, have a protein rich breakfast that includes 20 grams of carbs from fruits or whole grains.
 
 ## Chef Frank&#8217;s Easy Breakfast Recipes

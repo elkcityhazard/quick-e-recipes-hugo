@@ -1,10 +1,10 @@
 ---
 title: Easy Drawn Butter – Clarified Butter Recipe
+date: 2019-12-11 02:17:58 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T02:17:58+00:00
-
 ---
+
 [Drawn butter][1], or some call it clarified butter, is used over broiled fish, lobster, and many different [seafood entrees][2] whether on the grill or under a broiler.
 
 ## Drawn Butter

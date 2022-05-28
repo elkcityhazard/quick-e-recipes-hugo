@@ -1,10 +1,10 @@
 ---
 title: How To Make Roux
+date: 2019-12-13 15:03:50 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T15:03:50+00:00
-
 ---
+
 Roux is a Quick and Easy Recipe to Prepare for Thickening Gravies and [Sauces][1]. Use Roux in Making [Cream Soup Recipes][2] like Clam Chowder and Cream of Broccoli Soup. Stews and Desserts too.
 
 ## Roux Ingredients

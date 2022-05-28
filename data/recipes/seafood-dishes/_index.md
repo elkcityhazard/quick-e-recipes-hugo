@@ -2,9 +2,10 @@
 title: Seafood Dishes
 author: elkcityhazard
 type: page
-# date: 2019-12-15T21:35:06+00:00
-menu: ["recipes"]
+menu:
+- recipes
 ---
+
 Welcome to our Seafood Section. Try all of our Excellent Quick Seafood Entrees, so Delicious and Elegant, yet Simple to Prepare. Lake Michigan Whitefish, to African Rock Lobster Thermidor, Yummy!
 
 ## Seafood Recipes and Dishes

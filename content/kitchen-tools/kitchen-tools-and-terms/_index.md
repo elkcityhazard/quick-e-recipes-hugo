@@ -1,10 +1,10 @@
 ---
 title: Kitchen Tools And Terms
+date: 2019-12-16 17:40:52 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T17:40:52+00:00
-
 ---
+
 We Welcome you to our Educational Area fo our Site. In this Section, Kitchen Recipe Tools & Terms Identify Tools in the Kitchen. Learn Proper Culinary Terms to Prepare Recipes with a Chefs Knowledge. Navigate Through any Kitchen like a Professional, and Impress Everyone with your Culinary Expertise!  
 Use These Links to Better Stock Your Kitchen and Properly Use All Your Utensils andTools. Your Recipes Will Turn Out Better and Prep Times Will Be Shortened.
 

@@ -1,10 +1,10 @@
 ---
 title: Authentic Steak Quesadilla Recipe
+date: 2019-12-11 01:41:49 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T01:41:49+00:00
-
 ---
+
 Steak Quesadillas a Great Quick Easy Mexican Quesadilla Recipe using Fresh Sirloin Steak and Soft Tortillas. Make Fresh [Salsa][1] and [Guacamole][2] if you Desire from our Quick Easy Mexican Recipes. Quesadillas are Served for Lunch or Supper.
 
 ## Steak Quesadillas Recipe

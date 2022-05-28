@@ -1,5 +1,6 @@
 ---
 title: Recipes
-
-menu: ["main"]
+menu:
+- main
 ---
+

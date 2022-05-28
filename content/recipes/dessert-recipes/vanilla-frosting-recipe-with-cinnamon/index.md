@@ -1,10 +1,10 @@
 ---
 title: Vanilla Frosting Recipe With Cinnamon
+date: 2019-12-16 16:41:32 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T16:41:32+00:00
-
 ---
+
 [Cakes][1] and [Sweet Rolls][2] are finished with this Vanilla Frosting with Cinnamon Recipe. Quick and Easy to make, this Vanilla Frosting with Cinnamon tops any Cinnamon Roll!
 
 ## Vanilla Frosting with Cinnamon Ingredients

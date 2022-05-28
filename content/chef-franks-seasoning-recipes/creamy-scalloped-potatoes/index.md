@@ -1,10 +1,10 @@
 ---
 title: Creamy Scalloped Potatoes
+date: 2019-12-10 22:04:29 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T22:04:29+00:00
-
 ---
+
 Quick Easy Creamy Scalloped Potatoes, Great Comfort Food Entree on those Cold Winter Days. Warm up the House with a Creamy Scalloped Potato Aroma.
 
 ## Creamy Scalloped Potatoes

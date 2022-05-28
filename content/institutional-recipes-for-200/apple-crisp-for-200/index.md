@@ -1,10 +1,10 @@
 ---
 title: Apple Crisp For 200
+date: 2019-12-11 14:27:03 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T14:27:03+00:00
-
 ---
+
 [Kids][1] and adults love apple crisp for dessert. So easy to make and goes with any meal. Schools, camps, and churches love this recipe.
 
 ## Apple Crisp for 200 People

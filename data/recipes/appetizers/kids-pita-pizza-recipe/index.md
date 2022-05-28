@@ -1,10 +1,10 @@
 ---
 title: Kids’ Pita Pizza Recipe
+date: 2019-12-11 02:28:35 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T02:28:35+00:00
-
 ---
+
 Kids Pita Pizza Recipe is Perfect for Birthday Parties, Pic-nics and [Special Events][1]. [Kids][2] can help make Pita Pizza, it&#8217;s fun!
 
 ![Kids' Pita Pizza - Kid-Sized Pizza][3] 

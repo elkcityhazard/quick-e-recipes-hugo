@@ -1,10 +1,10 @@
 ---
 title: Delicious Homemade Teriyaki Chicken
+date: 2019-12-10 18:10:16 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T18:10:16+00:00
-
 ---
+
 Teriyaki chicken with homemade sauce contains pineapple, garlic, brown sugar and soy sauce. It&#8217;s great for the [barbecue grill][1] outside, or inside under your broiler. Teriyaki chicken can be served with [wild rice][2], [salads][3] or fruits or all the above.
 
 **Great on the barbecue grill!**

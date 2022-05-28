@@ -1,10 +1,10 @@
 ---
 title: Quick and Easy Egg Noodle Recipe
+date: 2019-12-10 17:00:21 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T17:00:21+00:00
-
 ---
+
 Our quick egg noodle recipe is great for [homemade soups][1] or [casseroles][2]. Add fresh chopped herbs in the flour for flavored noodles, and use whole wheat flour for better nutrition.
 
 ## Egg Noodles Ingredients

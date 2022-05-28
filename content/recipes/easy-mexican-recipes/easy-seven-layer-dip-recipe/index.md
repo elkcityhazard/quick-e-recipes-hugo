@@ -1,10 +1,10 @@
 ---
 title: Easy Seven Layer Dip Recipe
+date: 2019-12-16 14:17:09 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T14:17:09+00:00
-
 ---
+
 Great Filling Snack for Parties. Mexican Seven (7) Layer Dip with Refried Beans, Cream Cheese, Fresh Vegetables Cheese, and [Salsa][1]. Quick and Easy to make in about 10 minutes. Tortilla Chips Love Taking a Dip!
 
 ## Mexican Seven (7) Layer Dip Ingredients

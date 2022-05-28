@@ -1,10 +1,10 @@
 ---
 title: Apple Crisp Pie Recipe
+date: 2019-12-16 16:45:03 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T16:45:03+00:00
-
 ---
+
 Quick Easy Apple crisp recipe with [Michigan Apples][1]. Use Michigan Spy Apples for this Apple Crisp Recipe. With a Hint of Cinnamon and Quick Tapioca, it&#8217;s Wonderful Served Warm.
 
 ## Apple Crisp Ingredients

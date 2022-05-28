@@ -1,11 +1,11 @@
 ---
 title: Contact Us
+date: 2019-12-16 17:44:40 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T17:44:40+00:00
-featured_image: /images/mailbox.jpg
-
+featured_image: "/images/mailbox.jpg"
 ---
+
 ## Festive meals are family, fun, and tradition
 
 Thank you for visiting quick-e-recipes. Our mission is to give you all the information you need to be successful in the kitchen. We invite questions about home cooking, institutional cooking for 20-300, Gourmet dishes, special diets(including vegan, no gluten, lactose intolerant, peanut and food allergies). Also we invite questions on techniques, and methods of anything specific. So don&#8217;t hesitate, write today!

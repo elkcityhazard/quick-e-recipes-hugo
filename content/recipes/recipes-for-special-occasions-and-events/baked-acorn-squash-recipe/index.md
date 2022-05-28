@@ -1,10 +1,10 @@
 ---
 title: Baked Acorn Squash Recipe
+date: 2019-12-13 13:01:06 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T13:01:06+00:00
-
 ---
+
 Quick Easy Baked Acorn Squash, a staple for any <a href="/wordpress/recipes-for-special-occasions-and-events/" rel="noopener noreferrer" target="_blank">holiday dinner</a> or a great <a href="/wordpress/hot-vegetables/" rel="noopener noreferrer" target="_blank">hot vegetable</a> for any fall meal. Baked Acorn Squash is Easy in the microwave or oven. Top your Holidays with this great recipe.
 
   * Acorn Squash

@@ -1,10 +1,10 @@
 ---
 title: Easy Cheese Ball Recipe
+date: 2019-12-13 13:17:24 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T13:17:24+00:00
-
 ---
+
 Quick Easy Cheese Balls Recipe is for the [Holidays][1] with crackers and other <a href="/wordpress/appetizers/" rel="noopener noreferrer" target="_blank">Appetizers</a>. Cheese Balls take 15 minutes to prepare, and are eye appealing too!
 
 ## Cheese Ball Ingredients

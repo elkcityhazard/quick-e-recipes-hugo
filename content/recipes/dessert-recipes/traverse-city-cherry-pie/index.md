@@ -1,10 +1,10 @@
 ---
 title: Traverse City Cherry Pie
+date: 2019-12-16 16:46:10 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T16:46:10+00:00
-
 ---
+
 Traverse City Cherry Pie is the best in Michigan and so easy to make. Your family will go wild over this.
 
 ## Traverse City Cherry Pie

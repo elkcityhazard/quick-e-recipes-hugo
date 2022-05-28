@@ -1,11 +1,11 @@
 ---
 title: Kids Corner Recipes
+date: 2019-12-16 17:12:24 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T17:12:24+00:00
-featured_image: /wp-content/uploads/2020/01/pita-pizza.jpg
-
+featured_image: "/wp-content/uploads/2020/01/pita-pizza.jpg"
 ---
+
 Skippy loves kids and wants you to learn to cook these great foods! There&#8217;s more recipes to come!
 
 Bring the Kids in the Kitchen and Teach Them These Quick Easy Kids Recipes, All Kid Friendly Recipes. Using Adult Supervision Teaches Kids how to Follow Recipes. Fun Egg in a Basket, Cinnamon Crunchies, Quick People Chow, No Bake Cookies, Easy Pita Pizza, Fun for Kids.

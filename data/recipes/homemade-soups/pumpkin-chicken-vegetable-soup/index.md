@@ -1,10 +1,10 @@
 ---
 title: Pumpkin Chicken Vegetable Soup
+date: 2019-12-16 15:03:33 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T15:03:33+00:00
-
 ---
+
 Chunks of real pumpkin, sweet potato, and fall vegetables with fresh chicken, makes this recipe delicious, quick and easy. The perfect comfort soup for fall.
 
 ## Pumpkin Chicken Vegetable Soup Ingredients

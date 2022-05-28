@@ -1,10 +1,10 @@
 ---
 title: Homemade Chicken Noodle Soup Recipe
+date: 2019-12-16 14:38:57 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T14:38:57+00:00
-
 ---
+
 Quick Easy Chicken Noodle Soup Recipe is made from fresh chicken meat and garden vegetables. The [Noodles][1] are from our own Recipe. Chicken Noodle Soup is a healthy lunch.
 
 ## Chicken Noodle Soup Ingredients

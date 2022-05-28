@@ -1,10 +1,10 @@
 ---
 title: Monkey Bread Coffee Cake Recipe
+date: 2019-12-13 23:06:42 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T23:06:42+00:00
-
 ---
+
 Kathy&#8217;s Monkey Bread Coffee Cake Recipe is nice for [Sunday Morning Breakfast][1], or when your Scrap booking with Friends. Makes a Great Starter or <a href="/wordpress/dessert-recipes/" rel="noopener noreferrer" target="_blank">Dessert</a> for Favorite Meals too! Can you Smell the Aroma?
 
 ## Kathy&#8217;s Monkey Bread Coffee Cake

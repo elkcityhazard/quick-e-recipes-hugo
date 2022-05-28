@@ -1,10 +1,10 @@
 ---
 title: Sandy’s Sausage and Cheese Dip Recipe
+date: 2019-12-13 23:18:05 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T23:18:05+00:00
-
 ---
+
 Sandy&#8217;s Sausage and Cheese Dip Recipe is Fun for <a href="/wordpress/recipes-for-special-occasions-and-events/" rel="noopener noreferrer" target="_blank">Parties</a> or an Easy Snack While Watching Sports or your Favorite Movie. Tortilla Chips are Best Friends with Sandy&#8217;s Sausage and Cheese Dip.
 
 ## Sandy&#8217;s Sausage and Cheese Dip Recipe

@@ -1,10 +1,10 @@
 ---
 title: Easy Taco Salad Recipe
+date: 2019-12-13 22:48:33 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T22:48:33+00:00
-
 ---
+
 Colleen&#8217;s Taco Salad will be the Hit of any Party or Bring a Pleasant [Southwest][1] Atmosphere to any Supper Table. Fresh Ground Beef and Seasonings Make this recipe because it is easy to prepare and enjoy.
 
 ## Colleen&#8217;s Taco Salad Ingredients

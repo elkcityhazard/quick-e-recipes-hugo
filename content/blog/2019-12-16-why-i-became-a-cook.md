@@ -1,15 +1,15 @@
 ---
 title: Why I Became A Cook
+date: 2019-12-16 17:37:21 Z
 author: elkcityhazard
 type: post
-date: 2019-12-16T17:37:21+00:00
-url: /why-i-became-a-cook/
+url: "/why-i-became-a-cook/"
 categories:
-  - Stories
+- Stories
 tags:
-  - Stories
-
+- Stories
 ---
+
 I remember as a small child of 4or5 years old sitting in front of our black and white TV. On the screen was a lady pouring in a powdery substance, then adding a liquid. She started stirring the mixture up and all of a sudden it was something totally different, a doughy mound. &#8221; Wow&#8221;, I thought, &#8221; I wish I could do that&#8221;. I can&#8217;t explain why I was so mesmerized by something so simple, but I knew I wanted to what that lady did on TV.
 
 <!--more-->

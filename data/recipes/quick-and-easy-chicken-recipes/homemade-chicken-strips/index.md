@@ -1,10 +1,10 @@
 ---
 title: Homemade Chicken Strips
+date: 2019-12-15 01:08:03 Z
 author: elkcityhazard
 type: page
-date: 2019-12-15T01:08:03+00:00
-
 ---
+
 Quick Easy Chicken Strips Recipe Made with Real Chicken Breasts Cut in Strips, Dipped in Egg Wash, and Rolled in Crushed Crackers. Fry and Serve as Entree. Kids Love Them Too! Try Our <a href="/wordpress/chef-franks-seasoning-recipes/simple-and-tasty-potato-wedges/" rel="noopener noreferrer" target="_blank">Potato Wedges</a> with Sour Cream as a Side. Fresh Vegetables with Dip Balance out This Great Lunch.
 
 ![Battered Chicken Strips][1] 

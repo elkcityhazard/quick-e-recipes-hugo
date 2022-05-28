@@ -1,10 +1,10 @@
 ---
 title: Tartar Sauce For Fish
+date: 2019-12-10 22:41:05 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T22:41:05+00:00
-
 ---
+
 Quick Easy Tartar Sauce Recipe makes [fish meals][1] complete. With a touch of lemon, Tartar Sauce is great with Fried Clams or Walleye, and Fish and Chips.
 
 ## Tartar Sauce Ingredients

@@ -1,10 +1,10 @@
 ---
 title: Honey Barbecue Country Ribs
+date: 2019-12-10 21:22:20 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T21:22:20+00:00
-
 ---
+
 Chef Frank&#8217;s honey barbecue country ribs are slow cooked until tender and will wow your family and friends at your <a href="http://192.168.0.11/wordpress/grilling-cookouts-and-barbecues/" rel="noopener noreferrer" target="_blank">back yard Barbecue</a>.
 
 ## Honey Barbecue Country Ribs Ingredients

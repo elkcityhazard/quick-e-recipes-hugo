@@ -1,10 +1,10 @@
 ---
 title: London Broil Recipe
+date: 2019-12-12 15:09:45 Z
 author: elkcityhazard
 type: page
-date: 2019-12-12T15:09:45+00:00
-
 ---
+
 Quick Easy London Broil Recipe, Marinate Brisket in Garlic and Italian Dressing Overnight. London Broil is Excellent on the Grill or under the Broiler.
 
 ## London Broil Ingredients

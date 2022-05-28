@@ -1,10 +1,10 @@
 ---
 title: All Sweet Nut Cookies
+date: 2019-12-16 17:09:03 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T17:09:03+00:00
-
 ---
+
 Sandy&#8217;s allsweet nut cookies are fun and easy to make. A great snack for [kids][1] after school or anytime. Get the kids to help make these delicious cookies.
 
 ## Sandy&#8217;s Allsweet Nut Cookies

@@ -1,10 +1,10 @@
 ---
 title: Tuna Tomato Lotus Recipe
+date: 2019-12-16 15:45:36 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T15:45:36+00:00
-
 ---
+
 Tuna Tomato Lotus, Quick Easy Recipe for a Summer Luncheon Salad. Starred Fresh Tomato Stuffed with Tuna Salad Topped with Green Pepper Strips. Tuna Tomato Lotus With a <a href="/wordpress/homemade-soups/" rel="noopener noreferrer" target="_blank">Bowl of Soup</a>, Healthy!
 
 ## Tuna Tomato Lotus Quick and Easy Recipe

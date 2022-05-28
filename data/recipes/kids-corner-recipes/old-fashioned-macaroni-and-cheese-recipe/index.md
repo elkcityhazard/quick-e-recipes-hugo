@@ -1,10 +1,10 @@
 ---
 title: Old Fashioned Macaroni and Cheese Recipe
+date: 2019-12-16 15:56:38 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T15:56:38+00:00
-
 ---
+
 Quick Easy Macaroni and Cheese Recipe is made from Cheddar Cheese, Milk, and Butter, like Mom used to make. Macaroni and Cheese for Lunch or Dinner is a Winner that [Kids][1] and Adults Love.
 
 ## Macaroni and Cheese Ingredients

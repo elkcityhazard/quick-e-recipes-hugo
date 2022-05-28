@@ -1,10 +1,10 @@
 ---
 title: Easy Apple Pudding Recipe For 200 People
+date: 2019-12-11 14:39:17 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T14:39:17+00:00
-
 ---
+
 Delicious apple pudding for 200 people is a very <a href="/wordpress/dessert-recipes/" rel="noopener noreferrer" target="_blank">popular dessert</a> in the fall or for any season. Great for schools, churches and special functions.
 
 ## Apple Pudding for 200 People Ingredients

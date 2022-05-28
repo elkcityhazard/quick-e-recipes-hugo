@@ -1,10 +1,10 @@
 ---
 title: Scalloped Potatoes – Grandma’s Comfort Food
+date: 2019-12-10 22:32:23 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T22:32:23+00:00
-
 ---
+
 Quick Easy Scalloped Potatoes is Grandma&#8217;s recipe and will satisfy any appetite. Add [ham][1] to this Scalloped Potato recipe for a wonderful comfort food a cold winter day.
 
 ## Scalloped Potatoes Ingredients

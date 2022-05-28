@@ -1,10 +1,10 @@
 ---
 title: Easy Coq Au Vin Recipe
+date: 2019-12-13 13:42:07 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T13:42:07+00:00
-
 ---
+
 Whole Chicken cut up, Shallots, Onion, and Hearty Burgundy Wine. French Coq Au Vin is served with Wild Rice and any <a href="/wordpress/institutional-recipes-for-200/easy-side-dishes/" rel="noopener noreferrer" target="_blank">Side Dish Recipe</a>.
 
 ## Coq Au Vin (Chicken and Wine) Ingredients

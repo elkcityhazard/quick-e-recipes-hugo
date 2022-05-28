@@ -1,4 +1,6 @@
 ---
 title: Appetizers
-menu: ['recipes']
+menu:
+- recipes
 ---
+

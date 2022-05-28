@@ -1,10 +1,10 @@
 ---
 title: Maitre d’ Butter
+date: 2019-12-12 04:04:46 Z
 author: elkcityhazard
 type: page
-date: 2019-12-12T04:04:46+00:00
-
 ---
+
 Quick Easy Maitre d&#8217; butter Recipe is great for Topping [Steaks][1], Making [Chicken Recipes][2], or for Grilling Buns for [Sandwiches][3]. Maitre d&#8217; Butter is a must for Flambe&#8217; Recipes too like [Chicken Almondine Flambe&#8217;][4].
 
 _This recipe can be used to top off steaks, grill buns for sandwiches,or for use in various recipes on this site._

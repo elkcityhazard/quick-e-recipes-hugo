@@ -1,10 +1,10 @@
 ---
 title: Pasta Salad Recipe With Fresh Garden Vegetables
+date: 2019-12-12 15:22:56 Z
 author: elkcityhazard
 type: page
-date: 2019-12-12T15:22:56+00:00
-
 ---
+
 Quick Easy Pasta Salad Recipe using fresh broccoli, peppers, and other garden fresh vegetables. Pasta Salad is a summer favorite for picnics and luncheons with friends.
 
 ## Pasta Salad Ingredients

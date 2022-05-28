@@ -1,10 +1,10 @@
 ---
 title: Hot Mustard Sauce Recipe
+date: 2019-12-11 02:21:23 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T02:21:23+00:00
-
 ---
+
 Quick easy Hot Mustard Sauce Recipe is a favorite at [parties][1] for dipping egg rolls, [wings][2], or other [puff pastry][3] appetizers. Hot mustard on warm pretzels is comforting and satisfying.
 
 ## Hot Mustard Sauce Recipe

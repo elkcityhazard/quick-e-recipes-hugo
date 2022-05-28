@@ -1,11 +1,11 @@
 ---
 title: Banana Muffins
+date: 2019-12-10 14:22:56 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T14:22:56+00:00
-featured_image: /wp-content/uploads/2020/01/banana-muffins.jpg
-
+featured_image: "/wp-content/uploads/2020/01/banana-muffins.jpg"
 ---
+
 </p> 
 
 Homemade banana muffins, like the [bread recipe][1], is foolproof and only takes 10 (ten) minutes to prepare. Serve while still warm and enjoy with your favorite beverage.

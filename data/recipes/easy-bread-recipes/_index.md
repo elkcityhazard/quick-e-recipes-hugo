@@ -1,4 +1,6 @@
 ---
-title: "Easy Bread Recipes"
-menu: ["recipes"]
+title: Easy Bread Recipes
+menu:
+- recipes
 ---
+

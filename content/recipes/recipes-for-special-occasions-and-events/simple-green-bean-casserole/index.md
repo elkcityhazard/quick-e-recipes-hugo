@@ -1,10 +1,10 @@
 ---
 title: Simple Green Bean Casserole
+date: 2019-12-13 13:55:35 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T13:55:35+00:00
-
 ---
+
 Quick Easy Green Bean Casserole is a standard Recipe used for Holidays and everyday meals. Green Bean Casserole topped with Fried Onions and Cheese will Shake Up your Meals!<figure>
 
 ![Simple, Healthy Green Bean Casserole][1] <figcaption>A Simple and Healthy Green Bean Casserole</figcaption></figure> 

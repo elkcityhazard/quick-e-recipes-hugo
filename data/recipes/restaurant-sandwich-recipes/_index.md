@@ -1,10 +1,12 @@
 ---
 title: Restaurant Sandwich Recipes
+date: 2019-12-16 15:34:01 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T15:34:01+00:00
-menu: ["recipes"]
+menu:
+- recipes
 ---
+
 ## French Dip
 
   * 1 french roll sliced in 1/2 ( best if you bake a par baked roll so it&#8217;s crispy, 6-10 minutes at 375&#8457;)

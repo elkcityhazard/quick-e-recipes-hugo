@@ -1,11 +1,12 @@
 ---
 title: How To Make An Easy Wet Burrito
+date: 2019-12-16 14:24:10 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T14:24:10+00:00\
-summary: "Wet Burrito topped with fresh vegetables, shredded cheese, sour cream. An easy way to make a wet burrito"
-
+summary: Wet Burrito topped with fresh vegetables, shredded cheese, sour cream. An
+  easy way to make a wet burrito
 ---
+
 Quick Mexican Wet Burrito is excellent for Lunch or Supper, and adds an Ethnic Flare to any everyday Mexican Meal.
 
 ## Wet Burrito Ingredients

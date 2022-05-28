@@ -1,10 +1,10 @@
 ---
 title: Honey Teriyaki Barbecue Sauce
+date: 2019-12-10 22:38:28 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T22:38:28+00:00
-
 ---
+
 Our honey teriyaki barbecue sauce will become a staple in your recipe file. It&#8217;s easy to prepare on the stove and great for the <a href="/wordpress/grilling-cookouts-and-barbecues/" rel="noopener noreferrer" target="_blank">barbecue grill</a> for ribs, chicken, chops and steaks.
 
 ## Honey Teriyaki Barbecue Sauce Ingredients

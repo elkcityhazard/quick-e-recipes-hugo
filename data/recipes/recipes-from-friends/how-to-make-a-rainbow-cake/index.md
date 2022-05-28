@@ -1,10 +1,10 @@
 ---
 title: How To Make A Rainbow Cake By Angie
+date: 2019-12-13 22:37:13 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T22:37:13+00:00
-
 ---
+
 Angie&#8217;s &#8220;How to Make a Rainbow Cake&#8221; Recipe is Perfect for <a href="/wordpress/kids-corner-recipes/" rel="noopener noreferrer" target="_blank">Kids</a> Birthdays, Easter, any Family Celebrations. Angie say&#8217;s <q>Once your Kids Have One, they Want One Forever!</q>
 
 Angie&#8217;s <q>How to Make a Rainbow Cake!</q>

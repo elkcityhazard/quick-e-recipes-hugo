@@ -1,11 +1,11 @@
 ---
 title: Fresh Fruit Tray For Special Occasions
+date: 2019-12-11 16:44:45 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T16:44:45+00:00
-featured_image: /wp-content/uploads/2020/01/fruit-tray.jpg
-
+featured_image: "/wp-content/uploads/2020/01/fruit-tray.jpg"
 ---
+
 A fresh fruit tray is guaranteed to sparkle as the centerpiece of any gathering. Follow our instructions to really dress it up for a <a href="/wordpress/recipes-for-special-occasions-and-events/" rel="noopener noreferrer" target="_blank">special occasion</a>.
 
 ## Ingredients

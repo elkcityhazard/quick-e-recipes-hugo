@@ -1,10 +1,10 @@
 ---
 title: Peanut Butter Yummies
+date: 2019-12-16 17:06:43 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T17:06:43+00:00
-
 ---
+
 Kids are always looking for an [after school snack][1]. This recipe is so easy and quick to prepare your kids can help, and enjoy the fruits of their labors. Have a cold glass of milk handy.
 
 ## Peanut Butter Yummies, Quick and Easy Recipe

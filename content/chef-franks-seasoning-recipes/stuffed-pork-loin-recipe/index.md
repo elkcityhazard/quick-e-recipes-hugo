@@ -1,10 +1,10 @@
 ---
 title: Stuffed Pork Loin Recipe
+date: 2019-12-10 21:53:05 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T21:53:05+00:00
-
 ---
+
 Stuffed pork loin with [fresh raspberry sauce][1] is a wonderful Holiday or Fall entree. The stuffing can be made with either walnuts or pecans. for presentation, slice and shingle onto a platter or tray.
 
 ![Stuffed Pork Loin][2] 

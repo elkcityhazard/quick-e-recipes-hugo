@@ -1,10 +1,10 @@
 ---
 title: Macaroni and Cheese Recipe For 200
+date: 2019-12-11 16:06:38 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T16:06:38+00:00
-
 ---
+
 Quick Easy Institutional Macaroni and Cheddar Cheese Recipe is the Favorite of most Kids. Macaroni and Cheddar Cheese from Scratch is great with Fresh Watermelon and <a href="/wordpress/vegetables-and-salad-recipes/" rel="noopener noreferrer" target="_blank">Salads</a>. A Warm Roll is Nice too!
 
 ## Macaroni and Cheese with Cheddar for 240 people

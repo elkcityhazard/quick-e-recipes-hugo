@@ -1,10 +1,10 @@
 ---
 title: Pork Roast with Michigan Apples
+date: 2019-12-10 21:33:40 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T21:33:40+00:00
-
 ---
+
 Slow cooked pork roast with fresh Michigan apples and spices. Tender and juicy and served with [stuffing][1] or [potatoes][2], salad and of course, our [satisfying desserts][3].
 
 ## Pork Roast With Michigan Apples Ingredients

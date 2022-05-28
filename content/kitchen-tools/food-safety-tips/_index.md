@@ -1,10 +1,10 @@
 ---
 title: Food Safety Tips
+date: 2019-12-16 17:43:05 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T17:43:05+00:00
-
 ---
+
 Welcome to our food safety section of our site where we offer Quick Easy Food Safety and Tips to make food prep safe and insure food quality. Don&#8217;t take chances with food safety.
 
 ## Food Safety

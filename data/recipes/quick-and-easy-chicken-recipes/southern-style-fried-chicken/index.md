@@ -1,10 +1,10 @@
 ---
 title: Southern Style Fried Chicken
+date: 2019-12-15 01:10:55 Z
 author: elkcityhazard
 type: page
-date: 2019-12-15T01:10:55+00:00
-
 ---
+
 Quick Easy Fried Chicken Recipe Made Southern Style with Egg and Milk Batter Then Rolled in Crushed Saltines and spices. Call in the Kids, It&#8217;s Fried Chicken Tonight!
 
 ## Fried Chicken Southern Style Ingredients

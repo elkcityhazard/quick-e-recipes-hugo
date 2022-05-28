@@ -1,10 +1,10 @@
 ---
 title: Fresh Summer Cucumber Salad
+date: 2019-12-10 22:43:12 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T22:43:12+00:00
-
 ---
+
 [Fresh from the garden][1] comes this wonderful cucumber salad with fresh summer garden tomato, and onion. Simple and delicious for [steak or rib cookouts][2] and family meals.
 
 ## Cucumber Salad &#8211; Fresh Summer Garden Salad Ingredients

@@ -1,10 +1,10 @@
 ---
 title: Sausage Gravy For Biscuits
+date: 2019-12-10 14:30:01 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T14:30:01+00:00
-
 ---
+
 Delicious homemade sausage gravy for [biscuits][1] is simple and takes about 15 minutes to prepare. Also click the link to our homemade biscuits.
 
 ## Sausage Gravy For Biscuits Ingredients

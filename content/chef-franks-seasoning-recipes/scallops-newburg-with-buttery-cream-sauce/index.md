@@ -1,10 +1,10 @@
 ---
 title: Scallops Newburg With Buttery Cream Sauce
+date: 2019-12-10 17:43:31 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T17:43:31+00:00
-
 ---
+
 Make scallops newburg with large Sea Scallops and a buttery cream sauce. Then place over rice and serve with [Broccoli and cheese][1] and a Salad. A nice mellow white wine compliments this meal.
 
 ## Scallops Newburg Ingredients

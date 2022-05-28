@@ -1,10 +1,10 @@
 ---
 title: Homemade Barbecue Sauce Recipe With Red Wine
+date: 2019-12-11 02:14:39 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T02:14:39+00:00
-
 ---
+
 Prepare this wonderful barbecue sauce on the stove. Great for [grilling][1] outside or in. Use our sauce for [chicken][2], ribs, [pork][3], or barbecue sandwiches. Chef Frank finishes this recipe off with red wine for an added kick!
 
 ## Barbecue Sauce Recipe

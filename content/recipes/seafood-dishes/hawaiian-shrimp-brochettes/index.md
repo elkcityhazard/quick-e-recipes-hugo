@@ -1,10 +1,10 @@
 ---
 title: Hawaiian Shrimp Brochettes
+date: 2019-12-15 21:51:59 Z
 author: elkcityhazard
 type: page
-date: 2019-12-15T21:51:59+00:00
-
 ---
+
 Quick Easy Hawaiian Shrimp Brochettes, Great for Parties and [Cookouts][1]. Hawaiian Shrimp Brochettes are Festive for Any Season or Reason and Made from Garden Vegetables and Fresh Pineapple.
 
 ## Hawaiian Shrimp Brochettes Ingredients

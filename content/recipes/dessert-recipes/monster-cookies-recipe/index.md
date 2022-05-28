@@ -1,10 +1,10 @@
 ---
 title: Monster Cookies Recipe
+date: 2019-12-16 17:07:09 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T17:07:09+00:00
-
 ---
+
 Monster Cookies are Easy to Make and Quick to disappear. [Kid&#8217;s][1] love them and Monster Cookies are great for Christmas or Everyday.
 
 ## Monster Cookies Recipe

@@ -1,10 +1,10 @@
 ---
 title: Easy Macaroni Salad Recipe
+date: 2019-12-12 15:32:12 Z
 author: elkcityhazard
 type: page
-date: 2019-12-12T15:32:12+00:00
-
 ---
+
 Quick Easy Macaroni Salad Recipe is nice for Picnics and Summer Outings. Macaroni Salad is made with Mayo, Fresh Garden Vegetables and Elbow Macaroni.
 
 ## Macaroni Salad Ingredients

@@ -1,10 +1,12 @@
 ---
 title: Recipes For Special Occasions and Events
+date: 2019-12-13 12:58:16 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T12:58:16+00:00
-menu: ["recipes"]
+menu:
+- recipes
 ---
+
 Celebrate the special occasions and events of your life with delicious and beautifully presented recipes. Make fond memories of weddings, parties and all your family Holidays. Everyone likes to take pictures during special times, and they&#8217;ll probably be capturing the wonderful food.<figure> 
 
 ![Fresh Fruit Tray For Large Groups][1] <figcaption>Fresh Fruit Tray For Large Groups</figcaption></figure> <figure>![Fresh Vegetables Are A Must For Special Occasions][2] <figcaption>Fresh Vegetables Are A Must For Special Occasions</figcaption></figure> 

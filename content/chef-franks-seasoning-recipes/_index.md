@@ -1,11 +1,11 @@
 ---
 title: Chef Frank’s Seasoning Recipes
+date: 2019-12-10 16:19:58 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T16:19:58+00:00
-featured_image: '/wp-content/uploads/2020/01/chef-franks-seasoning.jpg'
-
+featured_image: "/wp-content/uploads/2020/01/chef-franks-seasoning.jpg"
 ---
+
 Chef Frank&#8217;s is the home of Traverse City [Cherry Honey][1]. This one of a kind cherry honey was developed in 1995 by Chef Frank and is a staple during the National Cherry Festival and all summer long. Sold by specialty food retailers and farm stands throughout the Traverse City area.
 
 ![Chef Frank's Premium Seasoning][2]  

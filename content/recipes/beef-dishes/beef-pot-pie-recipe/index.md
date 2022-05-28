@@ -1,10 +1,10 @@
 ---
 title: Beef Pot Pie Recipe
+date: 2019-12-14 22:08:03 Z
 author: elkcityhazard
 type: page
-date: 2019-12-14T22:08:03+00:00
-
 ---
+
 Beef Pot Pie is a quick and easy recipe for supper tonight. Fresh beef [sirloin][1] and vegetables in a thick gravy with a golden crust. Very delicious Beef Pot Pie.
 
 ## Beef Pot Pie Recipe

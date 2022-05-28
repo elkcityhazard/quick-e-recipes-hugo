@@ -1,10 +1,10 @@
 ---
 title: Dottie’s Salmon Patties
+date: 2019-12-13 22:52:33 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T22:52:33+00:00
-
 ---
+
 Dottie&#8217;s Salmon Patties Recipe is Easy to Make and goes with a [Spring Salad][1], Fresh Fruits and Vegetables, or <a href="/wordpress/sandwich-recipes/" rel="noopener noreferrer" target="_blank">Sandwiches</a>. Dotties Salmon Patties are Wonderful and Versatile, use Your Imagination.
 
 ## Dottie&#8217;s Salmon Patties

@@ -1,10 +1,10 @@
 ---
 title: Chocolate Frosting Recipe
+date: 2019-12-16 16:39:47 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T16:39:47+00:00
-
 ---
+
 Chocolate Frosting made Quick and Easy with a Five Minute Recipe. Chocolate Frosting for [Birthday Cakes][1] or [Cupcakes][2], A Favorite for Parties or After School Snacks.
 
 ## Chocolate Frosting Ingredients

@@ -1,10 +1,10 @@
 ---
 title: Jamie’s Mothership Tomato Salad
+date: 2019-12-13 22:56:07 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T22:56:07+00:00
-
 ---
+
 Jamie&#8217;s Mothership Tomato Salad is Fantastic and is Totally Delicious to Eat on it&#8217;s Own. It&#8217;s also Great Served with some Balls of Mozzerella and nice, [Grilled Ciabatta Bread][1].
 
 ## Jamie&#8217;s Mothership Tomato Salad

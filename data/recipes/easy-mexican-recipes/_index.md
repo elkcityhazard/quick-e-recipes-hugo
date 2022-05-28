@@ -1,4 +1,6 @@
 ---
 title: Easy Mexican Recipes
-menu: ["recipes"]
+menu:
+- recipes
 ---
+

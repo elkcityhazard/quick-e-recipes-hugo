@@ -1,10 +1,10 @@
 ---
 title: Shrimp Stir Fry With Vegetables
+date: 2019-12-15 21:49:13 Z
 author: elkcityhazard
 type: page
-date: 2019-12-15T21:49:13+00:00
-
 ---
+
 Shrimp Stir Fry Recipe is Quick And Easy with Fresh Vegetables and Shrimp, Stir Fried at 450&#8457; and Served over Rice or <a href="/wordpress/chef-franks-seasoning-recipes/shrimp-and-angel-hair-pasta/" rel="noopener noreferrer" target="_blank">Pasta</a>. Shrimp Stir Fry is a nice Healthy Entree for Family and Friends.
 
 ## Shrimp Stir Fry Ingredients

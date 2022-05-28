@@ -1,10 +1,10 @@
 ---
 title: Applesauce Dijon Pork Roast
+date: 2019-12-15 01:24:09 Z
 author: elkcityhazard
 type: page
-date: 2019-12-15T01:24:09+00:00
-
 ---
+
 Michigan applesauce is wonderful for this Pork loin with dijon and a little Marsala wine marinade. Break out the [barbecue grill][1] because summer grilling is recommended.
 
 ## Applesauce Dijon Pork Loin Chops Ingredients

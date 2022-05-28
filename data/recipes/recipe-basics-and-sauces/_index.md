@@ -1,10 +1,12 @@
 ---
 title: Recipe Basics and Sauces
+date: 2019-12-16 17:30:22 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T17:30:22+00:00
-menu: ["recipes"]
+menu:
+- recipes
 ---
+
 Welcome to the Recipe Basics Section of our site. Recipe Basics Partner and Link With Other Recipes on This Site. A Convenient and Quick way to Coordinate your Family Menu Plans. For Example, Maitre d&#8217; Butter Goes with Sirloin Steak., Easy Basic Sauce Recipes, Easy Internal Links to the <a href="/wordpress/easy-vegetarian-dinner-recipes/how-to-make-roux/" rel="noopener noreferrer" target="_blank">Roux Recipe</a>, <a href="/wordpress/easy-vegetarian-dinner-recipes/how-to-make-an-egg-wash/" rel="noopener noreferrer" target="_blank">Egg Wash</a> for your Fruit Pie Crusts so your Pie Crust is Flaky. <a href="/wordpress/appetizers/easy-drawn-butter-clarified-butter-recipe/" rel="noopener noreferrer" target="_blank">Drawn Butter</a>, for Fresh Seafood Recipes like <a href="/wordpress/recipes-for-special-occasions-and-events/lobster-thermidor-recipe/" rel="noopener noreferrer" target="_blank">Lobster Thermidor</a> and <a href="/wordpress/chef-franks-seasoning-recipes/lake-michigan-broiled-whitefish/" rel="noopener noreferrer" target="_blank">Broiled Whitefish</a> from Lake Michigan. Delicious!
 
 ## Sauces and Bases

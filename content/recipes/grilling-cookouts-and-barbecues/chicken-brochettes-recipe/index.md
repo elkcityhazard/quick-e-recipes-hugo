@@ -1,10 +1,10 @@
 ---
 title: Chicken Brochettes Recipe
+date: 2019-12-12 14:35:35 Z
 author: elkcityhazard
 type: page
-date: 2019-12-12T14:35:35+00:00
-
 ---
+
 Quick Chicken Brochettes Recipe is great in the summer on the barbeque grill, or inside under the broiler. Fresh [Chicken][1] and Vegetables Brochettes, Marinated and Skewered.
 
 _Here&#8217;s a great recipe for your summer cookout!_

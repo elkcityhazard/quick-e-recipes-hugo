@@ -1,10 +1,10 @@
 ---
 title: Seafood Sauce Recipe
+date: 2019-12-11 02:24:00 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T02:24:00+00:00
-
 ---
+
 Festive Holiday Seafood Sauce Recipe is made from ketchup, lemon, and horse radish. Easy to prepare and is best with Shrimp Cocktail or Fried Shrimp, Clams or Fish. Seafood Sauce is a must.
 
 ## Seafood Sauce Ingredients

@@ -1,10 +1,10 @@
 ---
 title: Honey Baked Ham Recipe For 200
+date: 2019-12-11 15:06:55 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T15:06:55+00:00
-
 ---
+
 Delicious honey baked ham for 200 with a quick 15 minute prep time and 1 hour cook time is easy for large group meals. Honey baked ham recipe has honey, clove, brown sugar, and <a href="/wordpress/recipes-for-special-occasions-and-events/michigan-apple-sauce/" rel="noopener noreferrer" target="_blank">applesauce</a>, very delicious!
 
 ## Honey Baked Ham for 200 Recipe

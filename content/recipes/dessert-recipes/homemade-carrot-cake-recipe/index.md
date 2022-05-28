@@ -1,10 +1,10 @@
 ---
 title: Homemade Carrot Cake Recipe
+date: 2019-12-16 16:36:34 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T16:36:34+00:00
-
 ---
+
 There&#8217;s nothing better than fresh carrot cake with cream cheese frosting. A hint of cinnamon tops this easy recipe from Northern Michigan
 
 ## Carrot Cake, Homemade and Delicious

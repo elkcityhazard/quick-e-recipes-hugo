@@ -1,10 +1,10 @@
 ---
 title: Easy Egg In A Basket
+date: 2019-12-16 17:27:32 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T17:27:32+00:00
-
 ---
+
 Quick Easy Egg in a Basket Recipe is fun for the kids to eat and help make. Pictures to guide you when making egg in a basket, a great fun <a href="/wordpress/easy-breakfast-recipes/" rel="noopener noreferrer" target="_blank">breakfast</a>.
 
 ## Egg In A Basket Recipe

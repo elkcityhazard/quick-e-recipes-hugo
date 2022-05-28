@@ -1,10 +1,10 @@
 ---
 title: Cream Of Broccoli Soup Recipe
+date: 2019-12-16 14:54:39 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T14:54:39+00:00
-
 ---
+
 Cream of Broccoli Soup is a Hearty Quick and Easy Cream Soup Recipe For Lunch or a Meal with Your Favorite [Sandwich][1], or Accompanying Any [Salad][2]. Cream of Broccoli is Made With Fresh Broccoli.
 
 ## Cream of Broccoli Soup Ingredients

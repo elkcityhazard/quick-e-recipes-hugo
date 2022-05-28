@@ -1,4 +1,6 @@
 ---
-title: "Casserole Recipes"
-menu: ["recipes"]
+title: Casserole Recipes
+menu:
+- recipes
 ---
+

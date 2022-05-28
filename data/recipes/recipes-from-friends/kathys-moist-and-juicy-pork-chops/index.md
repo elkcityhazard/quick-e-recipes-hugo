@@ -1,10 +1,10 @@
 ---
 title: Kathy’s Moist and Juicy Pork Chops
+date: 2019-12-13 23:03:08 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T23:03:08+00:00
-
 ---
+
 Kathy&#8217;s Moist and Juicy Pork Chops Recipe is so Quick and Easy to Prepare, About Ten Minutes and in the Oven it Goes! Ground Cloves, <a href="/wordpress/recipes-for-special-occasions-and-events/michigan-apple-sauce/" rel="noopener noreferrer" target="_blank">Applesauce</a> and Brown Sugar is the Secret Revealed! Enjoy for Supper Tonight!
 
 ## Kathy&#8217;s Moist and Juicy Pork Chops

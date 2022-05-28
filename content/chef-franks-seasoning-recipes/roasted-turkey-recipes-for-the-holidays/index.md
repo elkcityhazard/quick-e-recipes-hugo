@@ -1,10 +1,10 @@
 ---
 title: Roasted Turkey Recipes For The Holidays
+date: 2019-12-10 16:43:17 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T16:43:17+00:00
-
 ---
+
 Fill your house with the aroma of our festive oven roasted turkey. Wonderful for [family celebrations][1] and Holiday meals.
 
 ## Oven Roasted Turkey Ingredients

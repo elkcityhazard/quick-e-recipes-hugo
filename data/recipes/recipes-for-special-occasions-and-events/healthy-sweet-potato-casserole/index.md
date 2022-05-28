@@ -1,10 +1,10 @@
 ---
 title: Healthy Sweet Potato Casserole
+date: 2019-12-13 14:16:17 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T14:16:17+00:00
-
 ---
+
 Sweet Potato Casserole with Michigan Apples and Cranberries Compliment <a href="/wordpress/easy-pork-recipes/" rel="noopener noreferrer" target="_blank">Pork</a> and <a href="/wordpress/quick-and-easy-chicken-recipes/" rel="noopener noreferrer" target="_blank">Chicken Entree</a> Dishes. An easy Side Dish for Get Togethers with Family and Friends or for the Holidays.
 
 ## Sweet Potato Casserole with Michigan Apples and Cranberries Ingredients

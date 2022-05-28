@@ -1,10 +1,10 @@
 ---
 title: Bacon Wrapped Olives Appetizer
+date: 2019-12-11 00:51:34 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T00:51:34+00:00
-
 ---
+
 Quick easy Bacon Wrapped Olives Make a great Appetizer for parties and get togethers. Bacon Wrapped Olives are festive too, and make a great [Christmas][1] or New Years Eve Snack.
 
 ## Bacon Wrapped Olives Ingredients

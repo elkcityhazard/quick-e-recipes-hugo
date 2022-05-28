@@ -1,10 +1,10 @@
 ---
 title: Mexican Grilled Shrimp Quesadillas
+date: 2019-12-16 14:10:02 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T14:10:02+00:00
-
 ---
+
 ## Mexican Grilled Shrimp Quesadillas Ingredients
 
   * 2-3 lbs raw peeled deveined shrimp, 21-25 size

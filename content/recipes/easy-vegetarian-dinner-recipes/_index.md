@@ -1,11 +1,12 @@
 ---
 title: Easy Vegetarian Dinner Recipes
+date: 2019-12-13 14:47:11 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T14:47:11+00:00
-menu: ["recipes"]
-
+menu:
+- recipes
 ---
+
 Welcome to our Delicious Nutritious Vegetarian Recipes and Entree Meals from Casseroles to Side Dishes, Salads and Desserts.
 
 Fresh fruits and vegetables are a staple to the vegetarian diet, including getting proper amounts of protein from soy, nuts, legumes and various other sources. Enjoy this ever expanding section and lets get cooking!

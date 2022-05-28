@@ -1,11 +1,12 @@
 ---
 title: Hot Vegetables
+date: 2019-12-16 15:47:38 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T15:47:38+00:00
-menu: ["recipes"]
-
+menu:
+- recipes
 ---
+
 ## Quick and Easy Hot Vegetables
 
 Welcome to our Hot Vegetable Section Where We Offer Quick Easy Hot Vegetables, Easy Acorn Squash for the Fall Season, Quick Green Bean Casserole, Sweet Potato Bake, Broccoli Cauliflower Au Gratin, Delicious Hot Vegetable Sides for Any Meal.

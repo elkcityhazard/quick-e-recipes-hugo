@@ -1,10 +1,10 @@
 ---
 title: Zucchini Bread Recipe
+date: 2019-12-16 16:04:04 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T16:04:04+00:00
-
 ---
+
 Easy Zucchini Quick Bread Recipe is a favorite in the Summer after Harvesting Fresh Zucchini from the [Garden][1]. Zucchini Bread with Nuts Too, and even Dried Fruit, Just add to the Recipe.
 
 ## Zucchini Bread Ingredients

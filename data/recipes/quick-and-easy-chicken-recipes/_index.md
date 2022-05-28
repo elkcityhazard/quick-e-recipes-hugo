@@ -1,12 +1,12 @@
 ---
 title: Quick and Easy Chicken Recipes
+date: 2019-12-15 00:49:16 Z
 author: elkcityhazard
 type: page
-date: 2019-12-15T00:49:16+00:00
-menu: ["recipes"]
-
-
+menu:
+- recipes
 ---
+
 Welcome to Our Chicken Entree Section Where We Provide Tasty Wonderful Chicken Recipes and Entrees for Sunday Dinner with Family and Friends. Roasts, Fried, or Barbecued. Wonderful Chicken Meals. Almondines, Teriyaki, Honey Barbecue, Pot Pies, All quick and Easy to Prepare. French Inspired Coq Au Vin (A Great Chicken in Hearty Burgundy Wine), and Chicken Almondine Flambe&#8217; to Set Your Meals on Fire! Grandmas Chicken will Bring Back Wonderful Memories from Childhood and is a Very Satisfying Comfort Food.
 
 ## Healthy Chicken Dishes

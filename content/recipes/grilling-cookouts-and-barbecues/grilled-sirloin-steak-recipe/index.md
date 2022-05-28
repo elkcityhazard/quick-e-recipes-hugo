@@ -1,10 +1,10 @@
 ---
 title: Grilled Sirloin Steak Recipe
+date: 2019-12-12 15:13:19 Z
 author: elkcityhazard
 type: page
-date: 2019-12-12T15:13:19+00:00
-
 ---
+
 Sirloin Steak Recipe Quick and Easy for the Barbecue Grill, top with <a href="http://192.168.0.9/index.php/grilling-cookouts-and-barbecues/maitre-d-butter/" rel="noopener noreferrer" target="_blank">Maitre d&#8217; butter</a> while grilling. Serve with any side dish. Great for back yard Barbecues.
 
 ## Sirloin Steak Ingredients

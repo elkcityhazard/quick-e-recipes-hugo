@@ -1,10 +1,10 @@
 ---
 title: Easy Homemade Bread
+date: 2019-12-16 16:06:40 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T16:06:40+00:00
-
 ---
+
 Quick Easy Whole Wheat or White Bread Recipe is From Scratch, Makes Two Loaves, and is the same as Grandma Makes. Homemade Bread Aroma Welcomes Your Family and Guests Warmly.
 
 ## Homemade Bread Ingredients

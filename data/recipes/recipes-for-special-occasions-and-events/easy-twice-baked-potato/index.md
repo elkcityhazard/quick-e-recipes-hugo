@@ -1,10 +1,10 @@
 ---
 title: Easy Twice Baked Potato
+date: 2019-12-13 14:20:36 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T14:20:36+00:00
-
 ---
+
 Quick Easy Twice Baked Potatoes Recipe ia a Standard for the <a href="/wordpress/recipes-for-special-occasions-and-events/" rel="noopener noreferrer" target="_blank">Holidays</a>. Twice Baked Potatoes with Sour Cream, Chives, and Cheddar Cheese is Delicious.<figure>
 
 ![Easy Twice Baked Potato][1] <figcaption>Simple and Delicious Twice Baked Potatoes</figcaption></figure> 

@@ -1,10 +1,10 @@
 ---
 title: Easy Chocolate Cake Recipe
+date: 2019-12-16 16:39:22 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T16:39:22+00:00
-
 ---
+
 Chocolate Cake is made quick and easy for birthdays or any occasion. A five minute scratch recipe for Chocolate Cake is truly quick, easy, and fun for Parties.<figure> 
 
 ![Easy Chocolate Cake][1] <figcaption>A beautiful and easy chocolate cake.</figcaption></figure> 

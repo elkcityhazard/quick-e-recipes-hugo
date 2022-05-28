@@ -1,10 +1,10 @@
 ---
 title: Michigan Apple Sage Stuffing
+date: 2019-12-13 13:06:58 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T13:06:58+00:00
-
 ---
+
 Apple Sage Stuffing Recipe Made with Michigan Apples is a Quick and Easy Recipe to Prepare. Even Using Fresh Grown Sage. Apple Sage Stuffing for the Holidays will Enhance Your <a href="/wordpress/recipes-for-special-occasions-and-events/" rel="noopener noreferrer" target="_blank">Holiday Meal</a>.
 
 ## Apple Sage Stuffing Ingredients

@@ -1,10 +1,10 @@
 ---
 title: Lake Michigan Broiled Whitefish
+date: 2019-12-10 17:39:42 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T17:39:42+00:00
-
 ---
+
 Let&#8217;s have broiled whitefish from Lake Michigan. Simply place on foil pie pan, butter, season, and broil. Serve with drawn butter or tartar sauce. Serve with any side dish, salad, rice, or potato.
 
 ## Broiled Whitefish Ingredients

@@ -1,10 +1,10 @@
 ---
 title: Fruit Fluff Recipe
+date: 2019-12-16 16:34:35 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T16:34:35+00:00
-
 ---
+
 Quick Easy Fruit Fluff Recipe is a Wonderful Easy Recipe for a Quick Dessert when in a Hurry. Fruit Cocktail, Whipped Cream, and Strawberry Glaze make Fruit Fluff that Kids Love!
 
 ## Fruit Fluff Ingredients

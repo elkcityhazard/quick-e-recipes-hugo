@@ -1,10 +1,10 @@
 ---
 title: Roasted Chicken Entree
+date: 2019-12-10 16:38:30 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T16:38:30+00:00
-
 ---
+
 Roast chicken is a quick recipe for a nice supper. All of our [side dish recipes][1] are compatible, and hot rolls with butter tops it off.
 
 ## Roasted Chicken For 4

@@ -1,10 +1,10 @@
 ---
 title: Strawberry Spinach Salad Recipe
+date: 2019-12-12 15:26:01 Z
 author: elkcityhazard
 type: page
-date: 2019-12-12T15:26:01+00:00
-
 ---
+
 Quick Easy Strawberry Spinach Salad Recipe is a Wonderful Summer Salad with Pine Nuts, Blueberries, Strawberries, Fresh Spinach and Strawberry Balsamic Vinaigrette Dressing.
 
 While visiting friends, we were pleasantly surprised when they served this salad, espescially knowing they grow their own fruit.

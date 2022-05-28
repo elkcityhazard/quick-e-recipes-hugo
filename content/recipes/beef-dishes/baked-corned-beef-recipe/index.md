@@ -1,10 +1,10 @@
 ---
 title: Baked Corned Beef Recipe
+date: 2019-12-14 23:39:35 Z
 author: elkcityhazard
 type: page
-date: 2019-12-14T23:39:35+00:00
-
 ---
+
 Roasted Corned Beef Recipe is Quick and Easy with a [spicy mustard][1] and honey seasoning. Roasted Corned Beef is a great Fall recipe and goes well with [red potatoes][2] and cabbage.
 
 ## Baked Corned Beef Ingredients (with Honey Mustard Optional)

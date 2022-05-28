@@ -1,10 +1,10 @@
 ---
 title: Chicken Almondine Flambe’
+date: 2019-12-13 13:30:21 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T13:30:21+00:00
-
 ---
+
 Chicken Almondine Flambe&#8217; is a Quick Easy Recipe that is Elegant and literally on Fire! Use Chicken, Madeira Wine, Fresh Mushrooms, Onions, and Almonds to Create Chicken Almondine Flambe&#8217;.
 
 ## Chicken Almondine Flambe&#8217; Ingredients

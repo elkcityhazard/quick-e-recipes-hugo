@@ -1,11 +1,11 @@
 ---
 title: Beef Fajitas
+date: 2019-12-16 14:01:05 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T14:01:05+00:00
-featured_image: /wp-content/uploads/2020/01/easy-mexican-fajitas.jpg
-
+featured_image: "/wp-content/uploads/2020/01/easy-mexican-fajitas.jpg"
 ---
+
 Quick Easy Beef Fajitas Recipe with soft tortillas and spicy beef, grilled onions, and peppers. Beef Fajitas go well with quick [Spanish rice][1] and shredded cheddar cheese.
 
 &nbsp;

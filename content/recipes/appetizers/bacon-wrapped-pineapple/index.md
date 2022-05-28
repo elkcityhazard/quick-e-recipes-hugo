@@ -1,10 +1,10 @@
 ---
 title: Bacon Wrapped Pineapple
+date: 2019-12-11 00:58:05 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T00:58:05+00:00
-
 ---
+
 Quick and Easy Bacon Wrapped Pineapple make an Excellent [Appetizer][1] for Parties and Get Togethers. Serve for [Holidays and Special events.][2]
 
 ## Bacon Wrapped Pineapple

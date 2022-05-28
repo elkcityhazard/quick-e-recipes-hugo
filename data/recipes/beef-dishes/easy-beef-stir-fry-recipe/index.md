@@ -1,10 +1,10 @@
 ---
 title: Easy Beef Stir Fry Recipe
+date: 2019-12-14 22:16:29 Z
 author: elkcityhazard
 type: page
-date: 2019-12-14T22:16:29+00:00
-
 ---
+
 Quick Easy Beef Stir Fry with [Fresh Vegetables][1], Served over rice with egg rolls and soy sauce. Beef Stir Fry is Healthy and easy for those in-a-hurry times.
 
 ## Beef Stir Fry

@@ -1,10 +1,10 @@
 ---
 title: Fresh Homemade Biscuits
+date: 2019-12-10 14:26:34 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T14:26:34+00:00
-
 ---
+
 Our homemade biscuits are a light and fluffy [quick bread recipe][1]. Less than 10 minutes to prepare, and in the oven for about ten minutes. These biscuits go excellent with strawberry short cake, [sausage gravy][2], stews, and topped with [honey butter][3].
 
 ## Biscuits Ingredients

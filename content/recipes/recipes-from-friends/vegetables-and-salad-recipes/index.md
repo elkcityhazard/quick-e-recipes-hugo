@@ -1,10 +1,10 @@
 ---
 title: Vegetables and Salad Recipes
+date: 2019-12-16 15:36:30 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T15:36:30+00:00
-
 ---
+
 Prepare tasty fresh and colorful salads with garden fresh vegetables. Enjoy healthy summer eating fresh from the great outdoors.
 
 ## Green Salads

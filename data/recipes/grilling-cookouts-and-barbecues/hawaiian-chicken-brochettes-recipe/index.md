@@ -1,10 +1,10 @@
 ---
 title: Hawaiian Chicken Brochettes Recipe
+date: 2019-12-12 14:55:44 Z
 author: elkcityhazard
 type: page
-date: 2019-12-12T14:55:44+00:00
-
 ---
+
 Quick Easy Hawaiian Chicken Brochettes, a Festive Recipe with Fresh Pineapple, Vegetables and Chicken Breast, Great Brochettes for the Barbecue Grill or in the oven. It&#8217;s a Hawaiian Luau.
 
 ## Hawaiian Chicken Brochettes Ingredients

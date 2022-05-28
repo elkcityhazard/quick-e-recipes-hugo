@@ -1,10 +1,10 @@
 ---
 title: Honey Barbecued Baby Back Ribs
+date: 2019-12-10 21:14:20 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T21:14:20+00:00
-
 ---
+
 Chef Frank&#8217;s Honey Barbecued Baby Back Ribs are so delicious and easy to prepare in the oven or on the barbecue grill. Great with <a href="/wordpress/recipes-for-special-occasions-and-events/roasted-red-potatoes-recipe/" rel="noopener noreferrer" target="_blank">roasted red potatoes</a> and <a href="/wordpress/vegetables-and-salad-recipes/" rel="noopener noreferrer" target="_blank">salad</a> or fruit. 
 
 ## Honey Barbecue Baby Back Ribs Ingredients

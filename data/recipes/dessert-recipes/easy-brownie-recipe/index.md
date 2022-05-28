@@ -1,10 +1,10 @@
 ---
 title: Easy Brownie Recipe
+date: 2019-12-16 16:41:01 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T16:41:01+00:00
-
 ---
+
 ## Quick-e-Brownies Ingredients
 
 **serves 20**

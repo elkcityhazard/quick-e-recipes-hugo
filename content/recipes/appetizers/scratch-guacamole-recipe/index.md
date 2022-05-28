@@ -1,10 +1,10 @@
 ---
 title: Scratch Guacamole Recipe
+date: 2019-12-11 01:46:15 Z
 author: elkcityhazard
 type: page
-date: 2019-12-11T01:46:15+00:00
-
 ---
+
 Scratch Mexican Guacamole is a favorite with Nachos, <a href="/wordpress/easy-mexican-recipes/easy-wet-burrito/" rel="noopener noreferrer" target="_blank">burritos</a>, <a href="/wordpress/recipes-from-friends/easy-taco-salad-recipe/" rel="noopener noreferrer" target="_blank">tacos</a> and <a href="/wordpress/appetizers/mexican-quesadilla-recipe/" rel="noopener noreferrer" target="_blank">quesadillas</a>. Oh, and <a href="/wordpress/easy-mexican-recipes/beef-fajitas/" rel="noopener noreferrer" target="_blank">fajitas</a> too. It&#8217;s simple to prepare with fresh avocados, real lemon juice, garlic and spices. If you make too much, it&#8217;s easy to freeze until your next Mexican meal.
 
 ## Mexican Guacamole Recipe

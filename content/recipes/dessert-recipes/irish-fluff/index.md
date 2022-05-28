@@ -1,10 +1,10 @@
 ---
 title: Irish Fluff
+date: 2019-12-16 16:35:14 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T16:35:14+00:00
-
 ---
+
 Quick Easy Irish Fluff Recipe for St. Patrick&#8217;s Day is made with Marshmallows, Pistachio Pudding, Pineapple, and Whipped Cream. Irish Fluff will top off any [St. Patrick&#8217;s Day Meal][1].
 
 ## Irish Fluff Ingredients

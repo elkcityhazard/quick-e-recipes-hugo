@@ -1,10 +1,10 @@
 ---
 title: Cinnamon French Toast
+date: 2019-11-15 14:32:48 Z
 author: elkcityhazard
 type: page
-date: 2019-11-15T14:32:48+00:00
-
 ---
+
 ## Cinnamon French Toast for 4 servings
 
   * 6 eggs

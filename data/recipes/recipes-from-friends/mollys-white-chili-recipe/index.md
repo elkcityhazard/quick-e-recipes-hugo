@@ -1,10 +1,10 @@
 ---
 title: Molly’s White Chili Recipe
+date: 2019-12-13 23:14:06 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T23:14:06+00:00
-
 ---
+
 Molly&#8217;s White Chili Recipe is not only Easy to Make, it&#8217;s delicious and cheap. Top with Sour Cream or Thicken with Pureed Garbonzo or Northern Beans. You can Use your Imagination with this Recipe. You can add Red Pepper too!
 
 ## Molly&#8217;s White Chili, Easy, Cheap, and Good

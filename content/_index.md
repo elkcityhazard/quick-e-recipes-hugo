@@ -1,8 +1,7 @@
 ---
+title: Home
 identifier: home
-title: "Home"
 type: list
-# menu: ["main"]
 ---
 
 <!-- {{ define "main" }}

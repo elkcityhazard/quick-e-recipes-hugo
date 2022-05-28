@@ -1,10 +1,10 @@
 ---
 title: Easy Chicken Stir Fry
+date: 2019-12-15 01:03:31 Z
 author: elkcityhazard
 type: page
-date: 2019-12-15T01:03:31+00:00
-
 ---
+
 Esy Chicken Stir Fry Recipe is a ten minute prep, served over any rice. Fresh vegetables and chicken stir fried at 450&#8457;. Chicken Stir Fry for a Quick Easy Dinner tonight!
 
 ## Chicken Stir Fry Ingredients

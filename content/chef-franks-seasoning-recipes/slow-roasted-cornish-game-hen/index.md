@@ -1,10 +1,10 @@
 ---
 title: Slow Roasted Cornish Game Hen
+date: 2019-12-10 16:52:21 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T16:52:21+00:00
-
 ---
+
 Wonderful Cornish game hen, slow roasted and stuffed with [apple walnut sage stuffing][1], or plain roasted served with wild rice. This recipe makes [Holidays][2] or any day special.
 
 ![Stuffed Cornish Game Hens][3] 

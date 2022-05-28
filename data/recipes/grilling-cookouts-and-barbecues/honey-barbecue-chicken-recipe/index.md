@@ -1,10 +1,10 @@
 ---
 title: Honey Barbecue Chicken Recipe
+date: 2019-12-12 14:42:08 Z
 author: elkcityhazard
 type: page
-date: 2019-12-12T14:42:08+00:00
-
 ---
+
 Pure Honey, Herbs, Spices, Wine, and Ketchup base combined to make Quick Honey Barbeque Sauce Recipes for Chicken on the Barbecue Grill, or it&#8217;s Easy inside in the oven. Moist and Tender. Let&#8217;s Barbecue!
 
 ## Honey Barbecue Sauce Ingredients

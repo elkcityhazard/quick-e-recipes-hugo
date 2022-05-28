@@ -1,10 +1,10 @@
 ---
 title: Easy Chicken Cordon Bleu
+date: 2019-12-13 13:36:42 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T13:36:42+00:00
-
 ---
+
 Quick Easy Chicken Cordon Bleu will Make Your Guests Marvel at Your Expertise. This Chicken Cordon Bleu Recipe Is From Italy and Derived form the <a href="/wordpress/recipes-for-special-occasions-and-events/easy-coq-au-vin-recipe/" rel="noopener noreferrer" target="_blank">French Cuisines</a>. Uses Heavy Cream, Brie, and White Wine.
 
 ## Chicken Cordon Bleu Ingredients

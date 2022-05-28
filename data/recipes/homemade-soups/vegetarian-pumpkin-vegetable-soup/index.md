@@ -1,10 +1,10 @@
 ---
 title: Vegetarian Pumpkin Vegetable Soup
+date: 2019-12-16 15:09:15 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T15:09:15+00:00
-
 ---
+
 Hot pumpkin soup is a vegetarians delight with real pumpkin, sweet potatoes, celery, and other vegetables from the garden. A chunky, filling soup that is heart warming, quick and easy to prepare.
 
 ## Vegetarian Pumpkin Vegetable Soup Ingredients

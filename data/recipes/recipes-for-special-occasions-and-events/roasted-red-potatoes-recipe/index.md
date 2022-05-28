@@ -1,10 +1,10 @@
 ---
 title: Roasted Red Potatoes Recipe
+date: 2019-12-13 14:08:12 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T14:08:12+00:00
-
 ---
+
 Quick Easy Roasted Red Potatoes Recipe With Fresh Summer Squash, Onion, Carrots and Rosemary, Roasted with Olive Oil and Spices. Great for The Fall Season.
 
 ## Roasted Red Potatoes with Vegetables Ingredients

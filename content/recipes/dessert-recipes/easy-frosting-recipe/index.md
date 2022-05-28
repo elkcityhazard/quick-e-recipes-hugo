@@ -1,10 +1,10 @@
 ---
 title: Easy Frosting Recipe
+date: 2019-12-16 16:38:37 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T16:38:37+00:00
-
 ---
+
 Mom&#8217;s Quick Easy Frosting Recipe Makes any Cake Better. Mom&#8217;s Frosting is from Scratch and Easy to Make, and Top any [Cake][1], Cupcakes and [Birthday Cakes][2].
 
 Here is a simple recipe that will wow everyone!

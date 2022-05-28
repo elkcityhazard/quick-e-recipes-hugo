@@ -1,12 +1,13 @@
 ---
 title: Appetizers
+date: 2019-12-10 23:14:49 Z
 author: elkcityhazard
 type: Page
-date: 2019-12-10T23:14:49+00:00
-menu: ['recipes']
-summary: "Appetizers are neat"
-
+menu:
+- recipes
+summary: Appetizers are neat
 ---
+
 Celebrate Holidays and special events with these quick, wonderful and eye appealing appetizers. Chef Frank&#8217;s appetizers are fun to prepare and bring a festive flair to your event without keeping you cooped up in the kitchen.
 
 Festive Holiday Appetizers  

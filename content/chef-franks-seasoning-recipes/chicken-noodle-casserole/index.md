@@ -1,10 +1,10 @@
 ---
 title: Chicken Noodle Casserole
+date: 2019-12-10 22:15:00 Z
 author: elkcityhazard
 type: page
-date: 2019-12-10T22:15:00+00:00
-
 ---
+
 Chicken Noodle Casserole, Quick Easy Recipe for Lunch or Dinner Entree. Chicken Noodle Casserole is True Comfort Food and goes with any [Salad][1], [Fruit][2], and [Warm Bread][3].
 
 ![Chicken Noodle Casserole ][4] 

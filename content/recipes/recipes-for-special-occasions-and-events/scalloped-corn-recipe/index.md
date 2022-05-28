@@ -1,10 +1,10 @@
 ---
 title: Scalloped Corn Recipe
+date: 2019-12-13 14:30:02 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T14:30:02+00:00
-
 ---
+
 Quick Easy Scalloped Corn Recipe served at Sunday Dinner with <a href="/wordpress/chef-franks-seasoning-recipes/roasted-chicken-entree/" rel="noopener noreferrer" target="_blank">Roast Chicken</a> is the best! Scalloped Corn is a five minute prep and is a <a href="/wordpress/hot-vegetables/" rel="noopener noreferrer" target="_blank">Delicious Hot Vegetable</a> for Holidays too!
 
 ## Scalloped Corn Ingredients

@@ -1,10 +1,10 @@
 ---
 title: Sugar Cookies Recipe
+date: 2019-12-16 17:09:45 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T17:09:45+00:00
-
 ---
+
 Sugar Cookies are Quick and Easy with this Versatile Recipe. Make Thumbprints with the Same Sugar Cookie Recipe using Strawberry Preserves or any Fruit Jam.<figure> 
 
 ![Holiday Sugar Cookies][1] <figcaption>Festive Sugar Cookies For The Holidays</figcaption></figure> 

@@ -1,10 +1,10 @@
 ---
 title: Jubilee Cookie Recipe
+date: 2019-12-16 17:05:24 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T17:05:24+00:00
-
 ---
+
 Quick Easy Jubilee Cookie Recipe is a light Vanilla Cake Cookie topped with Vanilla and Coconut Frosting. Jubilee Cookies will Quickly become a Family Favorite Treat or <a href="/wordpress/dessert-recipes/" rel="noopener noreferrer" target="_blank">Dessert</a>.
 
 ## Jubilee cookies

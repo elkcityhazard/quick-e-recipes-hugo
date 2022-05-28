@@ -1,10 +1,10 @@
 ---
 title: Ingredient Measurements and Conventions
+date: 2019-12-16 17:33:12 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T17:33:12+00:00
-
 ---
+
 Thank you For visiting Quick-e-recipes, we want to provide all the tools for your cooking success. We have quick easy measurement charts, conversion charts, for all your quick easy recipe measurements. Save time by easily converting to or from metric, U.S. measure. We hope our recipe site will make your time in the kitchen easy and fun. Remember to contact <cheffrank@quick-e-recipes.com> if you have any questions about any recipe or techniques.
 
 ## Recipe and Ingredient Substitutions

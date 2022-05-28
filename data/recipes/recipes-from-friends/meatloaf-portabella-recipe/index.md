@@ -1,10 +1,10 @@
 ---
 title: Meatloaf Portabella Recipe
+date: 2019-12-13 22:42:46 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T22:42:46+00:00
-
 ---
+
 Ann&#8217;s Meatloaf Portabella Starts with Fresh Ground Chuck, Garden Squash, and Portabella Mushrooms. Wonderful Comfort Food Entree goes well with <a href="/wordpress/recipes-for-special-occasions-and-events/homemade-mashed-potatoes-recipe/" rel="noopener noreferrer" target="_blank">Mashed Potatoes</a>, <a href="/wordpress/institutional-recipes-for-200/easy-side-dishes/easy-gravy-recipe/" rel="noopener noreferrer" target="_blank">Gravy</a>, and <a href="/wordpress/hot-vegetables/" rel="noopener noreferrer" target="_blank">Hot Vegetables</a>.
 
 ## Ann&#8217;s Meatloaf Portabella

@@ -1,10 +1,10 @@
 ---
 title: Homemade Salisbury Steak
+date: 2019-12-15 00:31:32 Z
 author: elkcityhazard
 type: page
-date: 2019-12-15T00:31:32+00:00
-
 ---
+
 Quick Easy Salisbury Steak recipe with fresh ground beef, onion, green pepper, eggs and spices. Salisbury Steak is a favorite with [mashed redskin potatoes][1] and [beef mushroom gravy][2].
 
 ## Salisbury Steak With Fresh Ground Beef Ingredients

@@ -1,10 +1,10 @@
 ---
 title: Stuffed Acorn Squash Recipe
+date: 2019-12-13 14:13:21 Z
 author: elkcityhazard
 type: page
-date: 2019-12-13T14:13:21+00:00
-
 ---
+
 Quick and Easy Stuffed Acorn Squash for the Fall and Holiday Season. Use Fresh Acorn Squash in Season, it&#8217;s Easily Stuffed and Satisfying.
 
 ## Stuffed Acorn Squash Ingredients

@@ -1,10 +1,10 @@
 ---
 title: Easy French Onion Soup Recipe
+date: 2019-12-16 14:59:54 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T14:59:54+00:00
-
 ---
+
 French Onion Soup, Quick and Easy Soup for Lunch With Crouton and Cheese, A Minute Under the Broiler to Brown the Cheese. Make Any Restaurant Jealous! Great with Your Favorite <a href="/wordpress/sandwich-recipes/" rel="noopener noreferrer" target="_blank">Sandwich</a> or <a href="/wordpress/vegetables-and-salad-recipes/" rel="noopener noreferrer" target="_blank">Salad</a>.
 
 ## French Onion Soup Ingredients

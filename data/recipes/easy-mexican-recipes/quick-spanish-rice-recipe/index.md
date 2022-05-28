@@ -1,10 +1,10 @@
 ---
 title: Quick Spanish Rice Recipe
+date: 2019-12-16 14:21:47 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T14:21:47+00:00
-
 ---
+
 Quick Easy Spanish Rice is Prepped in 5 Minutes and is a Favorite Mexican Recipe too. Spanish Rice is a great [Side Dish][1], or add Fresh Ground Beef for a Terrific Mexican Entree.
 
 ## Quick Spanish Rice Ingredients

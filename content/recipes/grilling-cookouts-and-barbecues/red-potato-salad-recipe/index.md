@@ -1,10 +1,10 @@
 ---
 title: Red Potato Salad Recipe
+date: 2019-12-12 15:34:30 Z
 author: elkcityhazard
 type: page
-date: 2019-12-12T15:34:30+00:00
-
 ---
+
 Quick Easy Red Potato Salad Recipe with Fresh Boiled Eggs, Red Potatoes, Celery, Onion, and a Mustard Mayo Sauce with Spices. Red Potato Salad makes a Great  
 Picnic Better.
 

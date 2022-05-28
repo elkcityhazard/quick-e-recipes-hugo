@@ -1,10 +1,10 @@
 ---
 title: Clam Chowder Recipe
+date: 2019-12-16 14:51:17 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T14:51:17+00:00
-
 ---
+
 Clam Chowder, Quick and Easy for Your Friday Lunch or Soup and Sandwich Combo. Clam Chowder is an Easy Cream Soup Recipe and Great With [Salads][1] Too. Got Crackers?
 
 ## Clam Chowder Ingredients

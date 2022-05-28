@@ -1,10 +1,12 @@
 ---
 title: Beef Dishes
+date: 2019-12-14 21:59:22 Z
 author: elkcityhazard
 type: page
-date: 2019-12-14T21:59:22+00:00
-menu: ['recipes']
+menu:
+- recipes
 ---
+
 Welcome to our Wonderful and tender beef entrees for the whole family. Entertain with summer barbecues, fall meals, Holiday spreads, and everyday meals the family will sit down to the table for.
 
 ## Beef Entrees

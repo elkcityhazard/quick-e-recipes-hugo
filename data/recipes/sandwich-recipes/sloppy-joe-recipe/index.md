@@ -1,10 +1,10 @@
 ---
 title: Sloppy Joe Recipe
+date: 2019-12-16 15:25:00 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T15:25:00+00:00
-
 ---
+
 Our Sloppy Joes are Delicious, Quick and Easy with Ground Beef, Turkey, Chicken and Pork Recipe Variations. Fresh Rosemary and Vegetables Top Off this Awesome Sandwich.
 
 Sloppy Joe Recipe Ingredients</h2> 

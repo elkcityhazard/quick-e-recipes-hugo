@@ -1,10 +1,10 @@
 ---
 title: Homemade Cinnamon Caramel Sauce
+date: 2019-12-16 16:37:07 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T16:37:07+00:00
-
 ---
+
 Cinnamon Caramel Sauce is a must for any [Cinnamon Roll][1] or many Dessert Recipes. Cinnamon Caramel Sauce takes 5 minutes on the stove, very quick and easy!
 
 ## Cinnamon Caramel Sauce

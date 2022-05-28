@@ -1,10 +1,10 @@
 ---
 title: Irish Steak and Dark Beer Pie
+date: 2019-12-14 22:33:32 Z
 author: elkcityhazard
 type: page
-date: 2019-12-14T22:33:32+00:00
-
 ---
+
 Celebrate St Patrick&#8217;s Day anytime with our Irish Steak and Dark Beer Pie Recipe. An Easy and Fun Supper to Make and Quick to Disappear. An Irish Entree Recipe Everyone will Love.
 
 ## Irish Steak and Dark Beer Pie

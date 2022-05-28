@@ -1,10 +1,10 @@
 ---
 title: Beef Pot Roast Recipe
+date: 2019-12-15 00:28:03 Z
 author: elkcityhazard
 type: page
-date: 2019-12-15T00:28:03+00:00
-
 ---
+
 Beef Pot Roast for a Delicious Supper is a Quick Easy Recipe with [Potatoes][1] and Carrots, and only takes 15 Minutes to Prepare, then place in Oven to Roast. Sunday we&#8217;re having Pot Roast!
 
 ## Pot Roast of Beef (English cut or Chuck) Ingredients

@@ -1,10 +1,10 @@
 ---
 title: Blueberry Pie Recipe
+date: 2019-12-16 16:47:25 Z
 author: elkcityhazard
 type: page
-date: 2019-12-16T16:47:25+00:00
-
 ---
+
 Quick Easy Blueberry Pie Recipe is made from fresh or frozen blueberries, (preferrably from <a href="https://www.buchansblueberryhill.com/" rel="noopener noreferrer" target="_blank">Buchan&#8217;s Blueberries</a> in Traverse City, Michigan out on the Old Mission Penninsula), sugar, lemon juice, and quick tapioca for thickening. Blueberry Pie is a nice dessert for any occasion.
 
 ## Quick Blueberry Pie Ingredients
